@@ -1,0 +1,749 @@
+Phone Title,Screensize,resolution,FrontCam,OS,StorageMB,RAM,Battery mAh,Type,Specs Score,Likes
+Tecno F1,5, 854 x 480 pixels,2,OS:Android Go,8,0.5,2000, Li-Ion,27%,98
+Nokia 210,2.4, 240 x 320 pixels,8,Android,16,0.5,1020, Li-Ion,11%,7
+Nokia 8110 4G,2.4, 240 x 320 pixels,8,NoOS:-,4,0.5,1500, Li-Ion,19%,16
+Tecno L8,5.5, 720 x 1280 pixels,2,OS:Android 5.1 Lollipop,16,1,5050, Li-Po,41%,21
+Tecno W5 Lite,5.5, 720 x 1280 pixels,2,OS:Android 6.0 Marshmallow,16,1,3000, Li-Ion,39%,18
+Tecno L8 Lite,5, 720 x 1280 pixels,2,OS:Android 6.0 Marshmallow,16,1,4000, Li-Ion,38%,24
+Tecno L9,5.5, 720 x 1280 pixels,5,OS:Android 7.0 Nougat,16,1,4000, Li-Ion,38%,20
+Tecno WX3 P,5, 480 x 854 pixels,5,OS:Android 7.0 Nougat,8,1,5000, Li-Ion,37%,14
+Tecno WX3,5, 480 x 854 pixels,5,OS:Android 7.0 Nougat,8,1,2500, Li-Ion,30%,19
+Tecno Spark K7,5.5, 720 x 1280 pixels,5,OS:Android 7.0 Nougat,16,1,3000, Li-Ion,44%,119
+Tecno W5,5.5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,1,3000, Li-Ion,39%,36
+Tecno W4 4G,5, 720 x 1280 pixels,2,OS:Android 6.0 Marshmallow,16,1,2500, Li-Ion,34%,28
+Tecno W4 3G,5, 720 x 1280 pixels,2,OS:Android 6.0 Marshmallow,16,1,2500, Li-Ion,34%,4
+Tecno W3 4G,5, 480 x 854 pixels,2,OS:Android 6.0 Marshmallow,8,1,2500, Li-Ion,30%,11
+Tecno W3 3G,5, 480 x 854 pixels,2,OS:Android 6.0 Marshmallow,8,1,2500, Li-Ion,30%,14
+Tecno W1,4, 480 x 800 pixels,2,OS:Android 7.0 Nougat,8,1,1800, Li-Ion,26%,18
+LG G2 Mini,4.7, 540 x 960 pixels,1.3,OS:Android 4.4.2 Kitkat,8,1,2440, Li-Ion,32%,7
+Huawei Y5 II 4G,5, 720 x 1280 pixels,2,OS:Android 5.1 Lollipop,8,1,2200, Li-Po,33%,6
+Huawei Y5 II 3G,5, 720 x 1280 pixels,2,OS:Android 5.1 Lollipop,8,1,2200, Li-Po,33%,5
+Huawei Y3 II 4G,4.5, 480 x 854 pixels,2,OS:Android 5.1 Lollipop,8,1,2100, Li-Po,27%,7
+Huawei Y3 II 3G,4.5, 480 x 854 pixels,2,OS:Android 5.1 Lollipop,8,1,2100, Li-Po,29%,21
+HTC Desire 530,5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,1.5,2200, Li-Ion,33%,14
+HTC Desire 728G,5.5, 720 x 1280 pixels,5,OS:Android 5.1.1 Lollipop,16,1.5,2800, Li-Po,45%,4
+Sony Xperia E5,5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,1.5,2300, Li-Po,38%,8
+Samsung Galaxy Grand Prime Pro,5, 540 x 960 pixels,5,OS:Android 7.1.1 Nougat,16,1.5,2600, Li-Ion,34%,25
+Samsung Galaxy Grand Prime Plus,5, 540 x 960 pixels,5,OS:Android 6.0 Marshmallow,8,1.5,2600, Li-Ion,34%,13
+Xiaomi Black Shark Helo 10GB256GB,6.01, 1080 x 2160 pixels,20,OS:Android 8.0 Oreo,256,10,4000, Li-Ion,92%,3
+OnePlus 6T McLaren,6.41, 1080 x 2340 pixels,16,OS:Android 9.0 Pie,256,10,3700, Li-Po,89%,27
+Samsung Galaxy S20 Ultra,6.9, 1440 x 3200 pixels,40,OS:Android 10.0; One UI 2,128,12,5000, Li-Po,100%,70
+Samsung Galaxy Note 10 Note 10 Plus 5G 12GB51,6.8, 1440 x 3040 pixels,10,OS:Android 9.0 Pie; One UI,512,12,4300, Li-Ion,100%,34
+Samsung Galaxy Note 10 Note 10 Plus 5G 12GB25,6.8, 1440 x 3040 pixels,10,OS:Android 9.0 Pie; One UI,256,12,4300, Li-Ion,92%,73
+Samsung Galaxy Note 10 Note 10 Plus 12GB512GB,6.8, 1440 x 3040 pixels,10,OS:Android 9.0 Pie; One UI,512,12,4300, Li-Ion,100%,30
+Samsung Galaxy Note 10 Note 10 Plus 12GB256GB,6.8, 1440 x 3040 pixels,10,OS:Android 9.0 Pie; One UI,256,12,4300, Li-Ion,92%,53
+Samsung Galaxy Note 10 5G 12GB256GB,6.3, 1080 x 2280 pixels,10,OS:Android 9.0 Pie; One UI,256,12,3500, Li-Ion,88%,11
+Lenovo Legion Pro Duel 12GB256GB,6.65, 1080 x 2340 pixels,20,OS:Android 10; Legion OS:,256,12,5000, Li-Po,100%,10
+Lenovo Z6 Pro 12GB512GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; ZUI 11,512,12,4000, Li-Po,100%,12
+Oppo Reno 3 Pro 12GB256GB,6.5, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7,256,12,4025, Li-Po,100%,36
+Oppo Reno 3 12GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7,128,12,4025, Li-Po,100%,10
+Xiaomi Black Shark 2 Pro 12GB256GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie,256,12,4000, Li-Ion,100%,17
+Xiaomi Black Shark 2 Pro 12GB128GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie,128,12,4000, Li-Ion,100%,12
+Xiaomi Black Shark 2 12GB256GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie,256,12,4000, Li-Ion,100%,14
+Oppo Reno 4 Pro 5G 12GB256GB,6.55, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7.2,256,12,4000, Li-Po,100%,17
+Oppo Find X2 Neo 12GB256GB,6.5, 1080 x 2400 pixels,32,OS:Android 10.0; ColorOS: 7,256,12,4025, Li-Po,100%,8
+Oppo Ace 2 12GB256GB,6.55, 1080 x 2400 pixels,16,OS:Android 10; ColorOS: 7.1,256,12,4000, Li-Po,100%,10
+Oppo Find X2 Pro 12GB512GB,6.7, 1440 x 3168 pixels,32,OS:Android 10.0; ColorOS: 7.1,512,12,4260, Li-Po,100%,25
+Oppo Find X2 12GB256GB,6.7, 1440 x 3166 pixels,32,OS:Android 10.0; ColorOS: 7.1,256,12,4200, Li-Po,100%,14
+Realme X3 SuperZoom 12GB256GB,6.6, 1080 x 2400 pixels,32,OS:Android 10; Realme UI,256,12,4200, Li-Po,100%,6
+Samsung Galaxy Note 20 Ultra 5G 12GB512GB,6.9, 1440 x 3088 pixels,10,OS:Android 10; One UI 2.1,512,12,4500, Li-Ion,100%,21
+Samsung Galaxy Note 20 Ultra 5G 12GB256GB,6.9, 1440 x 3088 pixels,10,OS:Android 10; One UI 2.1,256,12,4500, Li-Ion,100%,17
+Samsung Galaxy Note 20 Ultra 5G 12GB128GB,6.9, 1440 x 3088 pixels,10,OS:Android 10; One UI 2.1,128,12,4500, Li-Ion,100%,9
+OnePlus Nord 12GB256GB,6.44, 1080 x 2400 pixels,32,OS:Android 10.0; OxygenOS: 10.0,256,12,4115, Li-Po,100%,8
+OnePlus 8 Pro 12GB256GB,6.78, 1440 x 3168 pixels,16,OS:Android 10.0; OxygenOS: 10.0,256,12,4510, Li-Po,100%,17
+OnePlus 8 12GB256GB,6.55, 1080 x 2400 pixels,16,OS:Android 10.0; OxygenOS: 10.0,256,12,4300, Li-Po,100%,10
+OnePlus 7T Pro 12GB256GB,6.67, 1440 x 3120 pixels,16,OS:Android 10.0; OxygenOS: 10.0.4,256,12,4085, Li-Po,100%,23
+OnePlus 7 Pro 256GB 12GB,6.67, 1440 x 3120 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,256,12,4000, Li-Po,100%,56
+Xiaomi Mi 10 5G 12GB256GB,6.67, 1080 x 2340 pixels,20,OS:Android 10; MIUI 11,256,12,4780, Li-Po,100%,11
+Samsung Galaxy S10 S10 Plus 1TB 12GB,6.4, 1440 x 3040 pixels,10, DualOS:Android 9.0 Pie,1TB,12,4100, Li-Ion,78%,44
+Samsung Galaxy Fold,7.3, 1536 x 2152 pixels,10,OS:Android 9.0 Pie,512,12,"4,380", Li-Po,100%,23
+Samsung Galaxy S10 S10 Plus 128GB 8GB,6.4, 1440 x 3040 pixels,10,OS:Android 9.0 Pie,512,12,"4,380", Li-Po,78%,72
+Samsung Galaxy A2 Core,5, 540 x 960 pixels,5,OS:Android 8.0 Oreo; Go Edition,8,1,2600, Li-Ion,40%,17
+Lenovo Phab,6.98, 720 x 1280 pixels,5,OS:Android 5.1 Lollipop,16,1,4250, Li-Po,41%,2
+Tecno Spark 2,6, 720 x 1440 pixels,8,OS:Android 8.1 Oreo,16,1,3500, Li-Ion,40%,172
+Tecno F2 LTE,5, 854 x 480 pixels,5,OS:Android 8.1 Oreo,8,1,2400, Li-Ion,29%,22
+Tecno Pouvoir 1,5.5, 720 x 1280 pixels,5,OS:Android 7.0 Nougat,16,1,5000, Li-Po,41%,21
+Tecno F3 POP 1,5.5, 960 x 480 pixels,5,OS:Android 7.0 Nougat,8,1,2400, Li-Ion,29%,38
+Tecno F2,5, 854 x 480 pixels,2,OS:Android 7.0 Nougat,8,1,2000, Li-Ion,28%,38
+Tecno Spark Pro K8,5.5, 720 x 1280 pixels,8,OS:Android 7.0 Nougat,16,1,3000, Li-Ion,38%,77
+Cubot Rainbow,5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,1,2200, Li-Po,37%,16
+Nokia 1 Plus 16GB,5.45, 480 x 960 pixels,5,OS:Android 9.0 Pie (Go edition),16,1,2500, Li-Ion,34%,6
+Nokia 1 Plus 8GB,5.45, 480 x 960 pixels,5,OS:Android 9.0 Pie (Go edition),8,1,2500, Li-Ion,33%,6
+Nokia 21,5.5, 720 x 1280 pixels,5,OS:Android 8.1 Oreo,8,1,4000, Li-Ion,38%,38
+Nokia 1,4.5, 480 x 854 pixels,2,OS:Android Go,8,1,1800, Li-Ion,26%,17
+Nokia 2,5, 720 x 1280 pixels,5,OS:Android 7.1.1 Nougat,8,1,4100, Li-Ion,38%,42
+Apple iPhone 5s 16GB,4, 640 x 1136 pixels,1.2,OS:iOS: 7,16,1,1560, Li-Po,29%,39
+Apple iPhone 6 Plus 64GB,5.5, 1080 x 1920 pixels,1.2,OS:iOS: 8,64,1,2915, Li-Po,37%,49
+Samsung Galaxy A3 Core 1GB16GB,5.3, 720 x 1480 pixels,5,OS:Android 10.0; Go edition,16,1,3000, Li-Ion,37%,14
+Samsung Galaxy A01 Core 1GB16GB,5.3, 720 x 1480 pixels,5,OS:Android 10.0; Go edition,16,1,3000, Li-Ion,37%,3
+Samsung Galaxy J2 Core 2020 1GB16GB,5, 540 x 960 pixels,5,OS:Android 8.1 Oreo (Android Go),16,1,2600, Li-Ion,34%,6
+Huawei Y3 2017,5, 480 x 854 pixels,2,OS:Android 6.0 Marshmallow,8,1,2200, Li-Ion,30%,5
+Lava Iris 51 1GB8GB,5, 480 x 854 pixels,5,OS:Android 8.1 Oreo; Go Edition,8,1,2500, Li-Ion,32%,13
+Lava Iris 42 1GB8GB,5, 480 x 854 pixels,2,OS:Android 8.1 Oreo; Go Edition,8,1,2000, Li-Ion,28%,24
+Lava Z50 Pro 4G,4.5, 480 x 854 pixels,5,OS:Android Oreo; Go Edition,8,1,2000, Li-Po,28%,7
+Infinix Smart 3 1GB16GB,5.5, 720 x 1440 pixels,8,OS:Android 9.0 Pie; Go Edition,16,1,3050, Li-Po,43%,72
+Samsung Galaxy J4 Core,6, 720 x 1480 pixels,5,OS:Android 8.1 Oreo,16,1,3300, Li-Ion,36%,15
+Samsung Galaxy J2 Core 2018,5, 540 x 960 pixels,5,OS:Android 8.1 Oreo (Android Go),8,1,2600, Li-Ion,33%,15
+Xiaomi Redmi Go,5, 720 x 1280 pixels,5,OS:Android 8.1 Oreo,8,1,3000, Li-Ion,36%,8
+Tecno Camon CX 32GB,5.5, 1080 x 1920 pixels,16,OS:Android 7.0 Nougat,32,2,3200, Li-Po,53%,35
+Tecno Boom J8,5.5, 720 x 1280 pixels,5,OS:Android 5.1 Lollipop,16,2,3000, Li-Ion,46%,69
+Tecno L8 Plus,5.5, 720 x 1280 pixels,2,OS:Android 5.1 Lollipop,16,2,5050, Li-Po,43%,17
+Tecno Camon C7,5, 720 x 1280 pixels,13,OS:Android 6.0 Marshmallow,16,2,2500, Li-Ion,39%,41
+Tecno Camon C9,5.5, 1080 x 1920 pixels,13,OS:Android 6.0 Marshmallow,16,2,3000, Li-Ion,48%,62
+Xiaomi Mi Max 16 GB,6.44, 1080 x 1920 pixels,5,OS:Android 6.0 Marshmallow,16,2,4850, Li-Ion,55%,6
+Xiaomi Redmi 4a 32 GB,5, 720 x 1280 pixels,5,OS:Android 6.0.1 Marshmallow,32,2,3120, Li-Ion,43%,5
+Xiaomi Redmi 4a 16 GB,5, 720 x 1280 pixels,5,OS:Android 6.0.1 Marshmallow,16,2,3120, Li-Ion,42%,6
+Nokia 5,5.2, 720 x 1280 pixels,8,OS:Android 7.1.1 Nougat,16,2,3000, Li-Ion,47%,26
+Apple iPhone 6s Plus 128 GB,5.5, 1080 x 1920 pixels,5,OS:iOS: 9,128,2,2750, Li-Ion,48%,38
+Tecno L9 Plus,6, 720 x 1280 pixels,5,OS:Android 7.0 Nougat,16,2,5000, Li-Ion,46%,124
+Tecno Camon CX Air,5.5, 720 x 1280 pixels,13,OS:Android 7.0 Nougat,16,2,3200, Li-Po,41%,100
+Tecno Camon CX,5.5, 1080 x 1920 pixels,16,OS:Android 7.0 Nougat,16,2,3200, Li-Po,52%,104
+Tecno Spark Plus K9,6, 720 x 1280 pixels,5,OS:Android 7.0 Nougat,16,2,3400, Li-Ion,48%,147
+Nokia 3,5, 720 x 1280 pixels,8,OS:Android 7.0 Nougat,16,2,2630, Li-Ion,37%,27
+HTC E9,5.5, 1080 x 1920 pixels,4,OS:Android 5.0 Lollipop,16,2,2800, Li-Po,52%,6
+HTC Desire 630,5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,2,2200, Li-Ion,40%,4
+HTC Desire 728,5.5, 720 x 1280 pixels,5,OS:Android 5.1.1 Lollipop,16,2,2800, Li-Po,45%,6
+HTC One A9 16 GB,5, 1080 x 1920 pixels,4,OS:Android 6.0 Marshmallow,16,2,2150, Li-Ion,48%,3
+LG Nexus 5X 32 GB,5.2, 1080 x 1920 pixels,5,OS:Android 6.0 Marshmallow,32,2,2700, Li-Po,48%,6
+LG Nexus 5X 16 GB,5.2, 1080 x 1920 pixels,5,OS:Android 6.0 Marshmallow,16,2,2700, Li-Po,47%,4
+LG G3 16 GB,5.5, 1440 x 2560 pixels,2.1,OS:Android 4.4.2 Kitkat,16,2,3000, Li-Ion,52%,4
+HTC One S9,5, 1080 x 1920 pixels,4,OS:Android OS:,16,2,2840, Li-Ion,52%,2
+Huawei G8 16 GB,5.5, 1080 x 1920 pixels,5,OS:Android 5.1 Lollipop,16,2,3000, Li-Ion,49%,5
+Huawei P9 Lite 2 GB RAM,5.2, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,16,2,3000, Li-Ion,53%,9
+Huawei P8 Lite,5, 720 x 1280 pixels,5,OS:Android 5.0.2 Lollipop,16,2,2200, Li-Ion,44%,31
+Huawei GR5,5.5, 1080 x 1920 pixels,5,OS:Android 5.1.1 Lollipop,16,2,3000, Li-Ion,49%,5
+Huawei GR3,5, 720 x 1280 pixels,5,OS:Android 5.1.1 Lollipop,16,2,2200, Li-Ion,45%,8
+Huawei Y6 Pro,5, 720 x 1280 pixels,5,OS:Android 5.1.1 Lollipop,16,2,4000, Li-Po,44%,7
+Huawei Y6 II,5.5, 720 x 1280 pixels,8,OS:Android 6.0 Marshmallow,16,2,3000, Li-Ion,45%,12
+Samsung Galaxy A11 2GB32GB,6.4, 720 x 1560 pixels,8,OS:Android 10,32,2,4000, Li-Po,53%,16
+Samsung Galaxy A01 2GB16GB,5.7, 720 x 1560 pixels,5,OS:Android 10.0; One UI 2,16,2,3000, Li-Ion,50%,24
+Samsung Galaxy A10s 2GB32GB,6.2, 720 x 1520 pixels,8,OS:Android 9.0 Pie,16,2,4000, Li-Po,54%,105
+Samsung Galaxy A10,6.2, 720 x 1520 pixels,5,OS:Android 9.0 Pie,16,2,3400, Li-Po,50%,94
+Sony Xperia C5 Ultra,6, 1080 x 1920 pixels,13,OS:Android 5.0 Lollipop,16,2,2930, Li-Ion,50%,1
+Sony Xperia L1,5.5, 720 x 1280 pixels,5,OS:Android 7.0 Nougat,16,2,2620, Li-Ion,40%,15
+Sony Xperia C4,5.5, 1080 x 1920 pixels,5,OS:Android 5.0 Lollipop,16,2,2600, Li-Ion,49%,6
+Lenovo K5 Play,5.7, 720 x 1440 pixels,8,OS:Android 8.0 Oreo,16,2,3000, Li-Ion,47%,5
+Lenovo Vibe S1 Lite,5, 1080 x 1920 pixels,8,OS:Android 5.1 Lollipop,16,2,2700, Li-Po,48%,6
+Lenovo Phab Plus,6.8, 1080 x 1920 pixels,5,OS:Android 5.0 Lollipop,32,2,3500, Li-Po,50%,5
+Lenovo K6 16GB,5, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,16,2,3000, Li-Ion,49%,5
+Lenovo Vibe X2,5, 1080 x 1920 pixels,5,OS:Android 4.4 Kitkat,32,2,2300, Li-Po,52%,4
+Tecno Camon 11,6.2, 720 x 1500 pixels,16,OS:Android 8.1 Oreo,16,2,3750, Li-Ion,44%,90
+Tecno Spark 2 32GB,6, 720 x 1440 pixels,8,OS:Android 8.1 Oreo,32,2,3500, Li-Ion,43%,52
+Tecno Pouvoir 2,6, 1440 x 720 pixels,8,OS:Android 8.1 Oreo,16,2,5000, Li-Po,46%,81
+Tecno Spark K7 Plus,5.5, 720 x 1280 pixels,5,OS:Android 7.0 Nougat,16,2,3000, Li-Ion,46%,51
+Tecno Camon CM,5.7, 720 x 1440 pixels,13,OS:Android 7.0 Nougat,16,2,3000, Li-Po,40%,94
+Oppo A1K 2GB32GB,6.1, 720 x 1560 pixels,5,OS:Android 9.0 Pie; ColorOS: 6,32,2,4000, Li-Po,50%,43
+Cubot Note S,5.5, 720 x 1280 pixels,5,OS:Android 5.1 Lollipop,16,2,4150, Li-Ion,40%,22
+Cubot Echo,5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,2,3000, Li-Po,41%,5
+Xiaomi Redmi Note 5A 16GB,5.5, 720 x 1280 pixels,16,OS:Android 7.1.2 Nougat,16,2,3080, Li-Ion,47%,13
+Nokia 42 16GB,5.71, 720 x 1520 pixels,8,OS:Android 9.0 Pie (One edition),16,2,3000, Li-Ion,50%,20
+Nokia 32 16GB,6.2, 720 x 1520 pixels,5,OS:Android 9.0 Pie (One edition),16,2,4000, Li-Ion,46%,25
+Nokia 31 Plus 16GB,6, 720 x 1440 pixels,8,OS:Android 8.1 Oreo,16,2,3500, Li-Ion,51%,15
+Nokia 31 16GB,5.2, 720 x 1440 pixels,8,OS:Android 8.0 Oreo,16,2,2990, Li-Ion,48%,40
+Nokia 51 16GB,5.5, 1080 x 2160 pixels,8,OS:Android 8.0 Oreo,16,2,2970, Li-Ion,55%,20
+Realme C3 2GB32GB,6.5, 720 x 1560 pixels,5,OS:Android 10.0; Realme UI 1.0,32,2,5000, Li-Po,56%,10
+Samsung Galaxy Fold 5G 12GB512GB,7.3, 1536 x 2152 pixels,10,OS:Android 10.0; Realme UI 1.0,32,2,5000, Li-Po,100%,22
+Samsung Galaxy A01 Core 2GB32GB,5.3, 720 x 1480 pixels,5,OS:Android 10.0; Go edition,32,2,3000, Li-Ion,39%,5
+Huawei Y5 2017,5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,2,3000, Li-Ion,38%,12
+Huawei Shot X,5.2, 1080 x 1920 pixels,13,OS:Android 5.1.1 Lollipop,16,2,3100, Li-Po,51%,9
+Huawei Ascend Mate 7 16GB,6, 1080 x 1920 pixels,5,OS:Android 4.4.2 Kitkat,16,2,4100, Li-Po,54%,14
+Oppo A3s,6.2, 720 x 1520 pixels,8,OS:Android 8.1 Oreo,16,2,4230, Li-Ion,52%,60
+Oppo A37,5, 720 x 1280 pixels,5,OS:Android 5.1 Lollipop,16,2,2630, Li-Ion,36%,64
+HTC Wildfire R70 2GB32GB,6.53, 720 x 1560 pixels,8,OS:Android 9.0 Pie,32,2,4000, Li-Po,56%,6
+HTC Desire 650,5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,2,2200, Li-Ion,40%,11
+HTC Desire 12,5.5, 720 x 1440 pixels,5,OS:Android 7.0 Nougat,16,2,2730, Li-Ion,40%,40
+Infinix Smart 5 2GB32GB,6.6, 720 x 1600 pixels,8,OS:Android 10; Go edition,32,2,5000, Li-Po,55%,21
+Infinix Hot 9 Play 2GB32GB,6.82, 720 x 1640 pixels,8,OS:Android 9.0 Pie (Go edition),32,2,6000, Li-Po,54%,5
+Infinix Hot 9 2GB32GB,6.6, 720 x 1600 pixels,8,OS:Android 10.0; XOS: 6.0,32,2,5000, Li-Po,55%,11
+Infinix Smart 4 2GB32GB,6.6, 720 x 1600 pixels,5,OS:Android 9.0 Pie; Go Edition; XOS: 5.5,32,2,4000, Li-Po,44%,73
+Infinix Hot 8 Lite 2GB32GB,6.52, 720 x 1600 pixels,8,OS:Android 8.1 Oreo; Go Edition,32,2,5000, Li-Po,49%,76
+Infinix Hot 8 2GB32GB,6.52, 720 x 1600 pixels,8,OS:Android 9.0 Pie,32,2,5000, Li-Po,57%,75
+Hotwav Cosmos V17,5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,2,3500, Li-Ion,48%,13
+Samsung Galaxy J3 2018,5, 720 x 1280 pixels,5,OS:Android 8.0 Oreo,16,2,2600, Li-Ion,37%,10
+Samsung Galaxy J4,5.5, 720 x 1280 pixels,5,OS:Android 8.0 Oreo,16,2,3000, Li-Ion,41%,16
+Samsung Galaxy A3 2017,4.7, 720 x 1280 pixels,8,OS:Android 6.0.1 Marshmallow,16,2,2350, Li-Ion,47%,19
+Samsung Galaxy J3 Pro,5, 720 x 1280 pixels,5,OS:Android 5.1 Lollipop,16,2,2600, Li-Ion,35%,14
+Samsung Galaxy M10 16GB,6.22, 720 x 1520 pixels,5,OS:Android 8.1 Oreo,16,2,3400, Li-Ion,49%,19
+Samsung Galaxy J4 32GB,5.5, 720 x 1280 pixels,5,OS:Android 8.0 Oreo,32,2,3000, Li-Ion,42%,38
+Samsung Galaxy J4 Plus 32GB SMJ415FDS,6, 720 x 1480 pixels,5,OS:Android 8.1 Oreo,32,2,3300, Li-Ion,43%,32
+Samsung Galaxy J4 Plus 16GB,6, 720 x 1480 pixels,5,OS:Android 8.1 Oreo,16,2,3300, Li-Ion,42%,8
+Xiaomi Redmi 6A 2GB32GB,5.45, 720 x 1440 pixels,5,OS:Android 8.1 Oreo,32,2,3000, Li-Ion,46%,10
+Xiaomi Redmi 7 16GB,6.26, 720 x 1520 pixels,8,OS:Android 9.0 Pie; MIUI 9,16,2,4000, Li-Po,51%,13
+Xiaomi Redmi 6A 16GB,5.45, 720 x 1440 pixels,5,OS:Android 8.1 Oreo,16,2,3000, Li-Ion,45%,11
+Realme C11 2GB32GB,6.5, 720 x 1560 pixels,5,OS:Android 10.0; Realme UI 1.0,32,2,5000, Li-Po,58%,21
+Realme C3i 2GB32GB,6.5, 720 x 1600 pixels,5,OS:Android 10.0; Realme UI 1.0,32,2,5000, Li-Po,56%,11
+Huawei Honor 7A,5.7, 720 x 1440 pixels,8,OS:Android 8.0 Oreo,16,2,3000, Li-Po,47%,27
+Tecno Phantom 5,5.5, 1080 x 1920 pixels,8,OS:Android 5.1 Lollipop,32,3,3000, Li-Ion,52%,29
+Tecno Camon C9 Plus,5.5, 1080 x 1920 pixels,13,OS:Android 6.0 Marshmallow,32,3,3000, Li-Ion,51%,39
+Tecno Phantom 6,5.5, 1080 x 1920 pixels,8,OS:Android 6.0.1 Marshmallow,32,3,2700, Li-Po,54%,55
+Xiaomi Mi Max 64 GB,6.44, 1080 x 1920 pixels,5,OS:Android 6.0 Marshmallow,64,3,4850, Li-Ion,59%,1
+Xiaomi Mi Max 32 GB,6.44, 1080 x 1920 pixels,5,OS:Android 6.0 Marshmallow,32,3,4850, Li-Ion,57%,5
+Xiaomi Mi 5s 64 GB,5.15, 1080 x 1920 pixels,4,OS:Android 6.0 Marshmallow,64,3,3200, Li-Po,52%,2
+Xiaomi Mi 5 64 GB,5.15, 1080 x 1920 pixels,4,OS:Android 6.0 Marshmallow,64,3,3000, Li-Po,54%,1
+Xiaomi Mi 5 32 GB,5.15, 1080 x 1920 pixels,4,OS:Android 6.0 Marshmallow,32,3,3000, Li-Po,51%,7
+Nokia 6,5.5, 1080 x 1920 pixels,8,OS:Android 7.1.1 Nougat,32,3,3000, Li-Ion,54%,36
+Huawei Nova,5, 1080 x 1920 pixels,8,OS:Android 6.0.1 Marshmallow,32,3,3020, Li-Po,55%,5
+Huawei P10 Lite 3 GB RAM,5.2, 1080 x 1920 pixels,8,OS:Android 7.0 Nougat,32,3,3000, Li-Po,55%,10
+Oppo A71,5.2, 720 x 1280 pixels,5,OS:Android 7.1 Nougat,16,3,3000, Li-Ion,49%,25
+HTC 10 Evo 64GB,5.5, 1440 x 2560 pixels,8,OS:Android 7.0 Nougat,64,3,3200, Li-Ion,62%,18
+HTC 10 Evo,5.5, 1440 x 2560 pixels,8,OS:Android 7.0 Nougat,32,3,3200, Li-Ion,60%,15
+HTC One M9 Plus,5.2, 1440 x 2560 pixels,4,OS:Android 5.0.2 Lollipop,32,3,2840, Li-Po,63%,10
+HTC One M9,5, 1080 x 1920 pixels,4,OS:Android 5.0 Lollipop,32,3,2840, Li-Po,57%,7
+HTC One A9 32 GB,5, 1080 x 1920 pixels,4,OS:Android 6.0 Marshmallow,32,3,2150, Li-Ion,50%,4
+HTC Desire 10 Lifestyle,5.5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,32,3,2700, Li-Ion,43%,13
+LG G5 SE,5.3, 1440 x 2560 pixels,8,OS:Android 6.0.1 Marshmallow,32,3,2800, Li-Ion,58%,3
+LG G4,5.5, 1440 x 2560 pixels,8,OS:Android 5.1.1 Lollipop,32,3,3000, Li-Ion,55%,16
+LG G3 32 GB,5.5, 1440 x 2560 pixels,2.1,OS:Android 4.4.2 Kitkat,32,3,3000, Li-Ion,54%,4
+HTC One ME,5.2, 1440 x 2560 pixels,4,OS:Android 5.0 Lollipop,32,3,2840, Li-Po,63%,7
+HTC One X9,5.5, 1080 x 1920 pixels,5,OS:Android 6.0 Marshmallow,32,3,3000, Li-Ion,56%,5
+HTC U Play 32 GB,5.2, 1080 x 1920 pixels,16,OS:Android OS:,32,3,2500, Li-Ion,56%,7
+Huawei G8 32 GB,5.5, 1080 x 1920 pixels,5,OS:Android 5.1 Lollipop,32,3,3000, Li-Ion,52%,9
+Huawei P9 Lite 3 GB RAM,5.2, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,16,3,3000, Li-Ion,54%,6
+Huawei P9 32 GB,5.2, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,32,3,3000, Li-Ion,57%,8
+Huawei P8 32 GB,5.2, 1080 x 1920 pixels,8,OS:Android 4.4.2 Kitkat,32,3,2680, Li-Po,54%,1
+Huawei P8 16 GB,5.2, 1080 x 1920 pixels,8,OS:Android 4.4.2 Kitkat,16,3,2680, Li-Po,53%,10
+Huawei GR5 2017 32 GB,5.5, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,32,3,3340, Li-Po,56%,6
+Huawei GR3 2017 16 GB,5.2, 1080 x 1920 pixels,8,OS:Android 7.0 Nougat,16,3,3000, Li-Ion,54%,10
+Samsung Galaxy A11 3GB32GB,6.4, 720 x 1560 pixels,8,OS:Android 10,32,3,4000, Li-Po,54%,13
+Samsung Galaxy A20s 3GB32GB,6.5, 720 x 1560 pixels,8,OS:Android 9.0 Pie,32,3,4000, Li-Po,54%,57
+Samsung Galaxy M10s 3GB32GB,6.4, 720 x 1560 pixels,8,OS:Android 9.0 Pie,32,3,4000, Li-Ion,53%,30
+Samsung Galaxy A30s 3GB32GB,6.4, 720 x 1560 pixels,16,OS:Android 9.0 Pie,32,3,4000, Li-Po,63%,28
+Samsung Galaxy A20e,5.8, 720 x 1560 pixels,8,OS:Android 9.0 Pie; One UI,32,3,3000, Li-Po,51%,21
+Samsung Galaxy A20,6.4, 720 x 1560 pixels,8,OS:Android 9.0 Pie,32,3,4000, Li-Po,53%,183
+Samsung Galaxy M10 32GB,6.22, 720 x 1520 pixels,5,OS:Android 8.1 Oreo,32,3,3400, Li-Ion,52%,23
+Sony Xperia X 32GB,5, 1080 x 1920 pixels,13,OS:Android 6.0.1 Marshmallow,32,3,2620, Li-Ion,58%,10
+Sony Xperia Z5 Premium,5.5, 2160 x 3840 pixels,5.1,OS:Android 5.1.1 Lollipop,32,3,3430, Li-Ion,70%,6
+Sony Xperia Z5 Dual,5.2, 1080 x 1920 pixels,5.1,OS:Android 5.1.1 Lollipop,32,3,2900, Li-Ion,62%,9
+Sony Xperia Z3 Plus,5.2, 1080 x 1920 pixels,5.1,OS:Android 5.0.1 Lollipop,32,3,2930, Li-Ion,61%,10
+Sony Xperia Z3 Dual 32GB,5.2, 1080 x 1920 pixels,2.2,OS:Android 4.4.4 Kitkat,32,3,3100, Li-Ion,58%,12
+Sony Xperia Z3 Dual 16GB,5.2, 1080 x 1920 pixels,2.2,OS:Android 4.4.4 Kitkat,16,3,3100, Li-Ion,57%,5
+Lenovo S5,5.7, 1080 x 2160 pixels,16,OS:Android 8.0 Oreo,32,3,3000, Li-Po,55%,12
+Lenovo K5,5.7, 720 x 1440 pixels,8,OS:Android 7.1 Nougat,32,3,3000, Li-Ion,50%,9
+Lenovo K6 Power,5, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,32,3,4000, Li-Ion,55%,6
+Lenovo K6 Note,5.5, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,32,3,4000, Li-Po,56%,7
+Tecno Camon X 32GB,6, 720 x 1440 pixels,20,OS:Android 8.1 Oreo,32,3,3750, Li-Po,57%,86
+Tecno Pouvoir 2 Pro,6, 1440 x 720 pixels,13,OS:Android 8.1 Oreo,16,3,5000, Li-Po,48%,77
+Tecno Camon X,6, 720 x 1440 pixels,20,OS:Android 8.1 Oreo,16,3,3750, Li-Po,56%,77
+Oppo A5 2020 3GB64GB,6.5, 720 x 1600 pixels,8,OS:Android 9.0 Pie; ColorOS: 6.0,64,3,5000, Li-Po,60%,59
+Oppo A7 32GB,6.2, 720 x 1520 pixels,16,OS:Android 8.1 Oreo,32,3,4230, Li-Ion,55%,28
+Cubot S550 Pro,5.5, 720 x 1280 pixels,8,OS:Android 5.1 Lollipop,16,3,3000, Li-Ion,42%,12
+Cubot Cheetah,5.5, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,32,3,3050, Li-Ion,52%,3
+Cubot Dinosaur,5.5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,16,3,4150, Li-Ion,45%,5
+Nokia 42 32GB,5.71, 720 x 1520 pixels,8,OS:Android 9.0 Pie (One edition),32,3,3000, Li-Ion,53%,81
+Nokia 32 32GB,6.2, 720 x 1520 pixels,5,OS:Android 9.0 Pie (One edition),32,3,4000, Li-Ion,49%,48
+Nokia 71 32GB,5.84, 1080 x 2280 pixels,8,OS:Android 8.1 Oreo,32,3,3060, Li-Ion,54%,16
+Nokia 51 Plus X5 32GB,5.86, 720 x 1520 pixels,8,OS:Android 8.1 Oreo,32,3,3060, Li-Ion,53%,61
+Apple iPhone SE 2020 256GB,4.7, 750 x 1334 pixels,7,OS:iOS: 13,256,3,1821, Li-Ion,63%,16
+Apple iPhone SE 2020 128GB,4.7, 750 x 1334 pixels,7,OS:iOS: 13,128,3,1821, Li-Ion,56%,27
+Apple iPhone SE 2020 64GB,4.7, 750 x 1334 pixels,7,OS:iOS: 13,64,3,1821, Li-Ion,52%,23
+Oppo A12s 3GB32GB,6.2, 720 x 1520 pixels,5,OS:Android 9.0 Pie; ColorOS: 6.1,32,3,4230, Li-Po,58%,7
+Oppo A12 3GB32GB,6.22, 720 x 1520 pixels,5,OS:Android 9.0 Pie; ColorOS: 6.1,32,3,4230, Li-Po,58%,8
+Realme 6i 3GB64GB,6.5, 720 x 1600 pixels,16,OS:Android 10; Realme UI,64,3,5000, Li-Po,85%,2
+Realme Narzo 10A 3GB32GB,6.5, 720 x 1600 pixels,5,OS:Android 10; Realme UI 1.0,32,3,5000, Li-Po,58%,9
+Realme 5 3GB64GB,6.5, 720 x 1600 pixels,13,OS:Android 9.0 Pie; Realme UI,64,3,5000, Li-Po,60%,2
+Realme 5 3GB32GB,6.5, 720 x 1600 pixels,13,OS:Android 9.0 Pie; Realme UI,32,3,5000, Li-Po,58%,1
+Realme C3 3GB32GB,6.5, 720 x 1560 pixels,5,OS:Android 10.0; Realme UI 1.0,32,3,5000, Li-Po,58%,12
+Samsung Galaxy M01s 3GB32GB,6.2, 720 x 1520 pixels,8,OS:Android 9.0 Pie; One UI 1.1,32,3,4000, Li-Ion,56%,11
+Samsung Galaxy M01 3GB32GB,5.7, 720 x 1520 pixels,5,OS:Android 10.0; One UI 2,32,3,4000, Li-Ion,56%,28
+Samsung Galaxy A21s 3GB32GB,6.5, 720 x 1600 pixels,13,OS:Android 10; One UI 2,32,3,5000, Li-Po,83%,12
+Samsung Galaxy A21 3GB32GB,6.5, 720 x 1600 pixels,13,OS:Android 10; One UI 2,32,3,4000, Li-Po,38%,6
+Samsung Galaxy M11 3GB32GB,6.4, 720 x 1560 pixels,8,OS:Android 10.0; One UI 2.0,32,3,5000, Li-Ion,57%,16
+Huawei Y7 Prime,5.5, 720 x 1280 pixels,8,OS:Android 7.0 Nougat,32,3,4000, Li-Ion,51%,24
+Huawei Nova Plus,5.5, 1080 x 1920 pixels,8,OS:Android 6.0.1 Marshmallow,32,3,3340, Li-Po,58%,6
+Huawei Honor 7 16GB,5.2, 1080 x 1920 pixels,8,OS:Android 5.0 Lollipop,16,3,3100, Li-Po,61%,5
+Huawei Mate 8 32GB,6, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,32,3,4000, Li-Po,61%,10
+Huawei Ascend Mate 7 32GB,6, 1080 x 1920 pixels,5,OS:Android 4.4.2 Kitkat,32,3,4100, Li-Po,56%,7
+Huawei Mate S 128GB,5.5, 1080 x 1920 pixels,8,OS:Android 5.1.1 Lollipop,128,3,2700, Li-Po,61%,7
+Huawei Mate S 64GB,5.5, 1080 x 1920 pixels,8,OS:Android 5.1.1 Lollipop,64,3,2700, Li-Po,57%,5
+Huawei Mate S 32GB,5.5, 1080 x 1920 pixels,8,OS:Android 5.1.1 Lollipop,32,3,2700, Li-Po,55%,6
+Huawei Honor 8 Lite,5.2, 1080 x 1920 pixels,8,OS:Android 7.0 Nougat,16,3,3000, Li-Ion,54%,14
+Oppo A3s Pro,6.2, 720 x 1520 pixels,8,OS:Android 8.1 Oreo,32,3,4230, Li-Ion,55%,53
+Oppo A83,5.7, 720 x 1440 pixels,8,OS:Android 7.1 Nougat,32,3,3180, Li-Ion,56%,25
+Oppo F5 Youth,6, 1080 x 2160 pixels,16,OS:Android 7.1 Nougat,32,3,3200, Li-Ion,58%,35
+Oppo F1s,5.5, 720 x 1280 pixels,16,OS:Android 5.1 Lollipop,32,3,3075, Li-Po,50%,22
+Oppo A57,5.2, 720 x 1280 pixels,16,OS:Android 6.0 Marshmallow,32,3,2900, Li-Ion,49%,26
+Honor 9A 3GB64GB,6.3, 720 x 1600 pixels,8,OS:Android 10; Magic UI 3,64,3,5000, Li-Po,60%,1
+Honor 8S 2020 3GB64GB,5.71, 720 x 1520 pixels,5,OS:Android 9.0 Pie; EMUI 9,64,3,3020, Li-Po,49%,4
+HTC Desire 19s 3GB32GB,6.2, 720 x 1520 pixels,16,OS:Android 9.0 Pie,32,3,3850, Li-Ion,55%,34
+HTC Desire 12s 32GB,5.7, 720 x 1440 pixels,13,OS:Android 8.1 Oreo,32,3,3075, Li-Ion,50%,6
+HTC One X10,5.5, 1080 x 1920 pixels,8,OS:Android,32,3,4000, Li-Po,59%,12
+HTC Desire 12 Plus,6, 720 x 1440 pixels,8,OS:Android 8.0 Oreo,32,3,2965, Li-Ion,51%,19
+HTC Desire 10 Compact,5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,32,3,3300, Li-Ion,45%,9
+HTC Desire 628,5, 720 x 1280 pixels,5,OS:Android 5.1 Lollipop,32,3,2200, Li-Ion,47%,4
+Xiaomi Redmi Note 8T 3GB32GB,6.3, 1080 x 2340 pixels,13,OS:Android 9.0 Pie; MIUI 10,32,3,4000, Li-Po,83%,8
+Infinix Hot 10 3GB64GB,6.78, 720 x 1640 pixels,8,OS:Android 10; XOS: 6.0,64,3,5200, Li-Po,63%,3
+Infinix Smart 5 3GB64GB,6.6, 720 x 1600 pixels,8,OS:Android 10; Go edition,64,3,5000, Li-Po,59%,9
+Infinix Smart 4 Plus 3GB32GB,6.82, 720 x 1640 pixels,8,OS:Android 10; XOS: 6.2,32,3,6000, Li-Po,61%,10
+Infinix Hot 8 3GB32GB,6.52, 720 x 1600 pixels,8,OS:Android 9.0 Pie,32,3,5000, Li-Po,58%,18
+Infinix Hot 9 Play 3GB64GB,6.82, 720 x 1640 pixels,8,OS:Android 9.0 Pie,64,3,6000, Li-Po,62%,11
+Infinix Hot 9 Play 3GB32GB,6.82, 720 x 1640 pixels,8,OS:Android 9.0 Pie,32,3,6000, Li-Po,60%,3
+Infinix Hot 9 3GB64GB,6.6, 720 x 1600 pixels,8,OS:Android 10.0; XOS: 6.0,64,3,5000, Li-Po,61%,24
+Infinix Hot 9 3GB32GB,6.6, 720 x 1600 pixels,8,OS:Android 10.0; XOS: 6.0,32,3,5000, Li-Po,57%,11
+Hotwav Cosmos V19 Plus,5.5, 720 x 1280 pixels,5,OS:Android 6.0 Marshmallow,32,3,3500, Li-Ion,50%,25
+Hotwav Cosmos V23,4.7, 720 x 1280 pixels,8,OS:Android 6.0 Marshmallow,32,3,3000, Li-Ion,49%,34
+LG Stylo 6 3GB64GB,6.8, 1080 x 2460 pixels,13,OS:Android 10,64,3,4000, Li-Po,61%,12
+LG W30,6.26, 720 x 1520 pixels,16,OS:Android 9.0 Pie,32,3,4000, Li-Po,55%,13
+LG W10,6.19, 720 x 1512 pixels,8,OS:Android 9.0 Pie,32,3,4000, Li-Po,56%,6
+Samsung Galaxy On6 32GB,5.6, 720 x 1480 pixels,8,OS:Android 8.0 Oreo,32,3,3000, Li-Ion,51%,11
+Samsung Galaxy J5 Pro 2017,5.2, 720 x 1280 pixels,13,OS:Android 7.0 Nougat,32,3,3000, Li-Ion,51%,28
+Samsung Galaxy J6,5.6, 720 x 1480 pixels,8,OS:Android 8.0 Oreo,32,3,3000, Li-Ion,51%,94
+Samsung Galaxy J7 Prime 32GB,5.5, 1080 x 1920 pixels,8,OS:Android 6.0.1 Marshmallow,32,3,3300, Li-Ion,53%,20
+Samsung Galaxy J7 Pro 64GB,5.5, 1080 x 1920 pixels,13,OS:Android 7.0 Nougat,64,3,3600, Li-Ion,56%,32
+Samsung Galaxy A6 Plus 2018 32GB,6, 1080 x 2220 pixels,24,OS:Android 8.0 Oreo,32,3,3500, Li-Ion,57%,20
+Samsung Galaxy A6 2018 32GB,5.6, 720 x 1480 pixels,16,OS:Android 8.0 Oreo,32,3,3000, Li-Ion,53%,25
+Samsung Galaxy A7 2017,5.7, 1080 x 1920 pixels,16,OS:Android 6.0.1 Marshmallow,32,3,3600, Li-Ion,58%,19
+Samsung Galaxy A5 2017 32GB,5.2, 1080 x 1920 pixels,16,OS:Android 6.0.1 Marshmallow,32,3,3000, Li-Ion,57%,34
+Samsung Galaxy C8,5.5, 1080 x 1920 pixels,16,OS:Android 7.1 Nougat,32,3,3000, Li-Ion,57%,30
+Samsung Galaxy J7 2017,5.5, 1080 x 1920 pixels,13,OS:Android 7.0 Nougat,16,3,3600, Li-Ion,53%,20
+Samsung Galaxy J7 Pro,5.5, 1080 x 1920 pixels,13,OS:Android 7.0 Nougat,32,3,3600, Li-Ion,54%,41
+Samsung Galaxy J7 Core,5.5, 720 x 1280 pixels,5,OS:Android 7.0 Nougat,16,3,3000, Li-Ion,50%,11
+Samsung Galaxy A30 32GB,6.4, 1080 x 2340 pixels,16,OS:Android 9.0 Pie,32,3,4000, Li-Po,59%,40
+Samsung Galaxy M20 32GB,6.3, 1080 x 2340 pixels,8,OS:Android 8.1 Oreo,32,3,5000, Li-Po,60%,92
+Samsung Galaxy J8 32GB,6, 720 x 1480 pixels,16,OS:Android 8.0 Oreo,32,3,3500, Li-Ion,55%,20
+Samsung Galaxy J6 Plus 32GB SMJ610FDS,6, 720 x 1480 pixels,8,OS:Android 8.1 Oreo,32,3,3300, Li-Ion,45%,38
+Huawei Y6s 3GB32GB,6.09, 720 x 1560 pixels,8,OS:Android 9.0 Pie; EMUI 9.1,32,3,3020, Li-Po,55%,20
+Xiaomi Redmi 6 3GB32GB,5.45, 720 x 1440 pixels,5,OS:Android 8.1 Oreo; MIUI 9.0,32,3,3000, Li-Po,52%,18
+Xiaomi Redmi 5 3GB32GB,5.7, 720 x 1440 pixels,5,OS:Android 7.1.2 Nougat; MIUI 9.1,32,3,3300, Li-Po,52%,3
+Xiaomi Redmi Y3 32GB,6.26, 720 x 1520 pixels,32,OS:Android 9.0 Pie; MIUI 9,32,3,4000, Li-Po,54%,24
+Xiaomi Redmi Note 7 32GB,6.3, 1080 x 2340 pixels,13,OS:Android 9.0 Pie,32,3,4000, Li-Po,58%,33
+Xiaomi Mi A2 Lite 32GB,5.84, 1080 x 2280 pixels,5, Android One,32,3,4000, Li-Po,58%,17
+Xiaomi Redmi Note 4 32GB,5.5, 1080 x 1920 pixels,5,OS:Android 6.0 Marshmallow,32,3,4100, Li-Ion,58%,3
+Xiaomi Redmi Note 5A Prime 32GB,5.5, 720 x 1280 pixels,16,OS:Android 7.1.2 Nougat,32,3,3080, Li-Ion,49%,12
+Xiaomi Redmi 4X 32GB,5, 720 x 1280 pixels,5,OS:Android 6.0.1 Marshmallow,32,3,4100, Li-Ion,53%,7
+Realme C3 3GB64GB,6.5, 720 x 1560 pixels,5,OS:Android 10.0; Realme UI 1.0,64,3,5000, Li-Po,60%,8
+Realme C12 3GB32GB,6.5, 720 x 1560 pixels,5,OS:Android 10.0; Realme UI 1.0,32,3,6000, Li-Po,63%,20
+Realme C15 3GB64GB,6.5, 720 x 1560 pixels,8,OS:Android 10.0; Realme UI 1.0,32,3,6000, Li-Po,63%,5
+Realme 5i 3GB32GB,6.52, 720 x 1600 pixels,8,OS:Android 9.0 Pie; Realme UI,32,3,5000, Li-Po,58%,4
+Huawei Y9 2018 32GB,5.93, 1080 x 2160 pixels,13, DualOS:Android 8.0 Oreo,32,3,4000, Li-Ion,62%,14
+Tecno Phantom 6 Plus,6, 1080 x 1920 pixels,8,OS:Android 6.0.1 Marshmallow,64,4,4050, Li-Ion,70%,78
+Xiaomi Mi Max 128 GB,6.44, 1080 x 1920 pixels,5,OS:Android 6.0 Marshmallow,128,4,4850, Li-Ion,67%,9
+Xiaomi Mi 5s 128 GB,5.15, 1080 x 1920 pixels,4,OS:Android 6.0 Marshmallow,128,4,3200, Li-Po,57%,3
+Nokia 9,5.5, 1440 x 2560 pixels,13,OS:Android 8.0 Oreo,128,4,3200, Li-Po,58%,37
+Nokia 8,5.3, 1440 x 2560 pixels,13,OS:Android 7.1.1 Nougat,64,4,3090, Li-Ion,64%,32
+Nokia 6 Arte Black,5.5, 1080 x 1920 pixels,8,OS:Android 7.1.1 Nougat,64,4,3000, Li-Ion,57%,19
+Tecno Camon CX Manchester City Edition,5.5, 1080 x 1920 pixels,16,OS:Android 7.0 Nougat,64,4,3200, Li-Po,58%,32
+Huawei Honor 8 32GB,5.2, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,32,4,3000, Li-Po,58%,11
+Huawei P10 Lite 4 GB RAM,5.2, 1080 x 1920 pixels,8,OS:Android 7.0 Nougat,32,4,3000, Li-Po,57%,14
+Huawei P10 64 GB,5.1, 1080 x 1920 pixels,8,OS:Android 7.0 Nougat,64,4,3200, Li-Ion,67%,4
+Huawei P10 32 GB,5.1, 1080 x 1920 pixels,8,OS:Android 7.0 Nougat,32,4,3200, Li-Ion,65%,6
+HTC 10 64 GB,5.2, 1440 x 2560 pixels,5,OS:Android 6.0.1 Marshmallow,64,4,3000, Li-Ion,56%,3
+HTC 10 32 GB,5.2, 1440 x 2560 pixels,5,OS:Android 6.0.1 Marshmallow,32,4,3000, Li-Ion,54%,3
+LG G5 64GB,5.3, 1440 x 2560 pixels,8,OS:Android 6.0.1 Marshmallow,64,4,2800, Li-Ion,58%,12
+LG G6 128 GB,5.7, 1440 x 2880 pixels,5,OS:Android 7.0 Nougat,128,4,3300, Li-Po,62%,4
+LG G6 64 GB,5.7, 1440 x 2880 pixels,5,OS:Android 7.0 Nougat,64,4,3300, Li-Po,58%,4
+LG G6 32 GB,5.7, 1440 x 2880 pixels,5,OS:Android 7.0 Nougat,32,4,3300, Li-Po,56%,5
+LG G5,5.3, 1440 x 2560 pixels,8,OS:Android 6.0.1 Marshmallow,32,4,2800, Li-Ion,56%,2
+LG V30 Plus,6, 1440 x 2880 pixels,5,OS:Android 7.1.2 Nougat,128,4,3300, Li-Po,70%,9
+LG V30 64 GB,6, 1440 x 2880 pixels,5,OS:Android 7.1.2 Nougat,64,4,3300, Li-Po,66%,10
+LG V20 64 GB,5.7, 1440 x 2560 pixels,5,OS:Android 7.0 Nougat,64,4,3200, Li-Ion,58%,14
+LG V20 32 GB,5.7, 1440 x 2560 pixels,5,OS:Android 7.0 Nougat,32,4,3200, Li-Ion,56%,5
+LG V10 64 GB,5.7, 1440 x 2560 pixels,5, DualOS:Android 5.1.1 Lollipop,64,4,3000, Li-Ion,58%,8
+LG V10 32 GB,5.7, 1440 x 2560 pixels,5, DualOS:Android 5.1.1 Lollipop,32,4,3000, Li-Ion,57%,4
+HTC Desire 10 Pro,5.5, 1080 x 1920 pixels,13,OS:Android 6.0 Marshmallow,64,4,3000, Li-Ion,62%,54
+HTC U11 64 GB,5.5, 1440 x 2560 pixels,16,OS:Android 7.1 Nougat,64,4,3000, Li-Ion,62%,6
+HTC U Ultra 128 GB,5.7, 1440 x 2560 pixels,16,OS:Android 7.0 Nougat,128,4,3000, Li-Ion,58%,9
+HTC U Ultra 64 GB,5.7, 1440 x 2560 pixels,16,OS:Android 7.0 Nougat,64,4,3000, Li-Ion,55%,18
+HTC U Play 64 GB,5.2, 1080 x 1920 pixels,16,OS:Android OS:,64,4,2500, Li-Ion,60%,11
+Huawei P9 64 GB,5.2, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,64,4,3000, Li-Ion,61%,3
+Huawei GR5 2017 64 GB,5.5, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,64,4,3340, Li-Po,59%,3
+Huawei GR3 2017 64 GB,5.2, 1080 x 1920 pixels,8,OS:Android 7.0 Nougat,64,4,3000, Li-Ion,59%,5
+Gionee M7 Power,6, 720 x 1440 pixels,8,OS:Android 7.1 Nougat,64,4,4000, Li-Po,56%,13
+Samsung Galaxy M21 4GB64GB,6.4, 1080 x 2340 pixels,20,OS:Android 10; One UI 2.0,64,4,6000, Li-Po,94%,31
+Samsung Galaxy A31 4GB64GB,6.4, 1080 x 2400 pixels,20,OS:Android 10; One UI 2.0,64,4,5000, Li-Po,90%,15
+Samsung Galaxy Xcover Pro 4GB64GB,6.3, 1080 x 2340 pixels,13,OS:Android 10.0; One UI 2,64,4,4500, Li-Po,73%,10
+Samsung Galaxy A51 4GB128GB,6.5, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,4,4000, Li-Po,92%,58
+Samsung Galaxy A60 4GB64GB,6.3, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; One UI,64,4,3500, Li-Po,74%,47
+Samsung Galaxy A20s 4GB64GB,6.5, 720 x 1560 pixels,8,OS:Android 9.0 Pie,64,4,4000, Li-Po,58%,52
+Samsung Galaxy M30s 4GB64GB,6.4, 1080 x 2400 pixels,16,OS:Android 9.0 Pie; One UI,64,4,6000, Li-Po,94%,98
+Samsung Galaxy A30s 4GB128GB,6.4, 720 x 1560 pixels,16,OS:Android 9.0 Pie,128,4,4000, Li-Po,70%,77
+Samsung Galaxy A30s 4GB64GB,6.4, 720 x 1560 pixels,16,OS:Android 9.0 Pie,64,4,4000, Li-Po,67%,58
+Samsung Galaxy A50s 4GB64GB,6.4, 1080 x 2340 pixels,32,OS:Android 9.0 Pie,64,4,4000, Li-Po,88%,20
+Samsung Galaxy A40,5.9, 1080 x 2340 pixels,25,OS:Android 9.0 Pie,64,4,3100, Li-Po,60%,46
+Samsung Galaxy M40 4GB64GB,6.3, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; One UI,64,4,3500, Li-Po,74%,18
+Samsung Galaxy A50 128GB 4GB,6.4, 1080 x 2340 pixels,25,OS:Android 9.0 Pie,128,4,4000, Li-Po,75%,260
+Samsung Galaxy M20 64GB,6.3, 1080 x 2340 pixels,8,OS:Android 8.1 Oreo,64,4,5000, Li-Po,63%,101
+Samsung Galaxy A30 64GB,6.4, 1080 x 2340 pixels,16,OS:Android 9.0 Pie,64,4,4000, Li-Po,62%,197
+Samsung Galaxy M30 64GB,6.4, 1080 x 2280 pixels,16,OS:Android 9.0 Pie,64,4,5000, Li-Po,63%,104
+Samsung Galaxy A50 64GB,6.4, 1080 x 2340 pixels,25,OS:Android 9.0 Pie,64,4,4000, Li-Po,72%,82
+Lenovo Z6 Youth 4GB64GB,6.3, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ZUI 11,64,4,4050, Li-Po,65%,18
+Lenovo S5 Pro GT 64GB 4GB,6.2, 1080 x 2246 pixels,20, DualOS:Android 8.1 Oreo,64,4,3500, Li-Ion,60%,18
+Lenovo Z5s,6.3, 1080 x 2340 pixels,16,OS:Android 9.0 Pie,64,4,3300, Li-Ion,63%,15
+Lenovo K8 Note,5.5, 1080 x 1920 pixels,13,OS:Android 7.1.1 Nougat,64,4,4000, Li-Po,66%,24
+Tecno Camon X Pro,6, 1080 x 2160 pixels,24,OS:Android 8.1 Oreo,64,4,3750, Li-Po,63%,191
+Oppo A31 4GB64GB,6.5, 720 x 1600 pixels,8,OS:Android 9.0 Pie; ColorOS: 6.1,64,4,4230, Li-Po,61%,32
+Oppo A8 4GB128GB,6.5, 720 x 1600 pixels,8,OS:Android 9.0 Pie; Color OS: 6.1,128,4,4230, Li-Po,64%,16
+Oppo A11 4GB128GB,6.5, 720 x 1600 pixels,16,OS:Android 9.0 Pie; ColorOS: 6.0,128,4,5000, Li-Po,91%,39
+Oppo A9 2020 4GB128GB,6.5, 720 x 1600 pixels,16,OS:Android 9.0 Pie; ColorOS: 6.1,128,4,5000, Li-Po,91%,38
+Oppo A5 2020 4GB128GB,6.5, 720 x 1600 pixels,8,OS:Android 9.0 Pie; ColorOS: 6.0,128,4,5000, Li-Po,65%,46
+Oppo F11 64GB,6.53, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ColorOS: 6,64,4,4020, Li-Po,87%,47
+Oppo A7 64GB,6.2, 720 x 1520 pixels,16,OS:Android 8.1 Oreo,64,4,4230, Li-Ion,59%,57
+Xiaomi Mi A1,5.5, 1080 x 1920 pixels,5,OS:Android 7.1.2 Nougat,64,4,3080, Li-Ion,58%,9
+Nokia 51 Plus Nokia X5 64GB 4GB,5.86, 720 x 1520 pixels,8,OS:Android 8.1 Oreo,64,4,3060, Li-Ion,57%,41
+Nokia 81 X7,6.18, 1080 x 2280 pixels,20,OS:Android 9.0 Pie,64,4,3500, Li-Ion,60%,23
+Nokia 61 64GB,5.5, 1080 x 1920 pixels,8,OS:Android 8.1 Oreo,64,4,3000, Li-Ion,62%,37
+Nokia 61 Plus X6,5.8, 1080 x 2220 pixels,16,OS:Android 8.1 Oreo,64,4,3060, Li-Ion,60%,165
+Nokia 7 Plus,6, 1080 x 2160 pixels,16,OS:Android 8.1 Oreo,64,4,3800, Li-Ion,61%,60
+Nokia 6 2018,5.5, 1080 x 1920 pixels,8,OS:Android 7.1.1 Nougat,32,4,3000, Li-Ion,60%,26
+Nokia 7,5.2, 1080 x 1920 pixels,5,OS:Android 7.1.1 Nougat,64,4,3000, Li-Ion,62%,15
+Xiaomi Redmi Note 8 4GB64GB,6.3, 1080 x 2340 pixels,13,OS:Android 9.0 Pie; MIUI 10,64,4,4000, Li-Po,86%,31
+Xiaomi Mi A3 4GB128GB,6.01, 720 x 1560 pixels,32,OS:Android 9.0 Pie; One Edition,128,4,4030, Li-Po,88%,41
+Xiaomi Mi A3 4GB64GB,6.01, 720 x 1560 pixels,32,OS:Android 9.0 Pie; One Edition,64,4,4030, Li-Po,85%,26
+Xiaomi Mi CC9e 4GB64GB,6.01, 720 x 1560 pixels,32,OS:Android 9.0 Pie; MIUI 10,64,4,4030, Li-Po,85%,6
+Apple iPhone 11 Pro Max 512GB,6.5, 1242 x 2688 pixels,12, DualOS:iOS: 13,512,4,3500, Li-Ion,65%,58
+Apple iPhone 11 Pro Max 256GB,6.5, 1242 x 2688 pixels,12, DualOS:iOS: 13,256,4,3500, Li-Ion,51%,91
+Apple iPhone 11 Pro Max 64GB,6.5, 1242 x 2688 pixels,12, DualOS:iOS: 13,64,4,3500, Li-Ion,40%,49
+Apple iPhone 11 Pro 512GB,5.8, 1125 x 2436 pixels,12, DualOS:iOS: 13,512,4,3190, Li-Ion,64%,29
+Apple iPhone 11 Pro 256GB,5.8, 1125 x 2436 pixels,12, DualOS:iOS: 13,256,4,3190, Li-Ion,50%,38
+Apple iPhone 11 Pro 64GB,5.8, 1125 x 2436 pixels,12, DualOS:iOS: 13,64,4,3190, Li-Ion,39%,67
+Apple iPhone 11 256GB,6.1, 828 x 1792 pixels,12, DualOS:iOS: 13,256,4,3110, Li-Ion,48%,29
+Apple iPhone 11 128GB,6.1, 828 x 1792 pixels,12, DualOS:iOS: 13,128,4,3110, Li-Ion,40%,44
+Apple iPhone 11 64GB,6.1, 828 x 1792 pixels,12, DualOS:iOS: 13,64,4,3110, Li-Ion,37%,71
+Oppo A53 4GB64GB,6.5, 720 x 1600 pixels,16,OS:Android 10; ColorOS: 7.2,64,4,5000, Li-Po,63%,11
+Oppo A72 4GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; ColorOS: 7.1,128,4,5000, Li-Po,93%,7
+Oppo A52 4GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; ColorOS: 7.1,128,4,5000, Li-Po,67%,17
+Oppo A52 4GB64GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; ColorOS: 7.1,64,4,5000, Li-Po,64%,6
+Oppo A12 4GB64GB,6.22, 720 x 1520 pixels,5,OS:Android 9.0 Pie; ColorOS: 6.1,64,4,4230, Li-Po,62%,9
+Oppo A31 Pro 4GB128GB,6.5, 720 x 1600 pixels,8,OS:Android 9.0 Pie; ColorOS: 6.1,128,4,4230, Li-Po,64%,21
+Realme 6i 4GB128GB,6.5, 720 x 1600 pixels,16,OS:Android 10; Realme UI,128,4,5000, Li-Po,91%,9
+Realme Narzo 10 4GB128GB,6.5, 720 x 1600 pixels,16,OS:Android 10; Realme UI 1.0,128,4,5000, Li-Po,91%,5
+Realme 6S 4GB64GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; Realme UI,64,4,4300, Li-Po,88%,2
+Realme 5 Pro 4GB64GB,6.3, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; Realme UI,64,4,4035, Li-Po,88%,4
+Realme X2 4GB64GB,6.4, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; Realme UI,64,4,4000, Li-Po,99%,5
+Realme C3 4GB64GB,6.5, 720 x 1560 pixels,5,OS:Android 10.0; Realme UI 1.0,64,4,5000, Li-Po,61%,5
+Samsung Galaxy A21s 4GB64GB,6.5, 720 x 1600 pixels,13,OS:Android 10; One UI 2,64,4,5000, Li-Po,87%,28
+Samsung Galaxy M11 4GB64GB,6.4, 720 x 1560 pixels,8,OS:Android 10.0; One UI 2.0,64,4,5000, Li-Ion,61%,13
+Samsung Galaxy A41 4GB64GB,6.1, 1080 x 2400 pixels,25,OS:Android 10.0; One UI 2,64,4,3500, Li-Po,85%,11
+Huawei Nova 2,5, 1080 x 1920 pixels,20,OS:Android 7.0 Nougat,64,4,2950, Li-Po,60%,2
+Huawei P10 Plus 64GB,5.5, 1440 x 2560 pixels,8,OS:Android 7.0 Nougat,64,4,3750, Li-Ion,70%,16
+Huawei P9 Plus,5.5, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,64,4,3400, Li-Po,62%,11
+Huawei Mate 10 Pro 64GB,6, 1080 x 2160 pixels,8,OS:Android 8.0 Oreo,64,4,4000, Li-Po,69%,18
+Huawei Mate 10,5.9, 1440 x 2560 pixels,8,OS:Android 8.0 Oreo,64,4,4000, Li-Po,70%,16
+Huawei Mate 10 Lite,5.9, 1080 x 2160 pixels,13, DualOS:Android 7.0 Nougat,64,4,3340, Li-Ion,64%,66
+Huawei Honor 7X 32GB,5.93, 1080 x 2160 pixels,8,OS:Android 7.0 Nougat,32,4,3340, Li-Ion,62%,26
+Huawei Mate 9 Pro 64GB,5.5, 1440 x 2560 pixels,8,OS:Android 7.0 Nougat,64,4,4000, Li-Po,71%,10
+Huawei Mate 9,5.9, 1080 x 1920 pixels,8,OS:Android 7.0 Nougat,64,4,4000, Li-Po,68%,10
+Huawei Mate 8 64GB,6, 1080 x 1920 pixels,8,OS:Android 6.0 Marshmallow,64,4,4000, Li-Po,65%,9
+Oppo F9,6.3, 1080 x 2340 pixels,25,OS:Android 8.1 Oreo,64,4,3500, Li-Po,62%,92
+Oppo A3,6.2, 1080 x 2280 pixels,8,OS:Android 8.1 Oreo,128,4,3400, Li-Ion,65%,45
+Oppo F7,6.23, 1080 x 2280 pixels,25,OS:Android 8.0 Oreo,64,4,3400, Li-Ion,62%,60
+Oppo F5,6, 1080 x 2160 pixels,20,OS:Android 7.1 Nougat,32,4,3200, Li-Ion,62%,122
+Oppo F3,5.5, 1080 x 1920 pixels,16, DualOS:Android 6.0 Marshmallow,64,4,3200, Li-Ion,56%,22
+Honor 9C 4GB64GB,6.39, 720 x 1560 pixels,8,OS:Android 10; Magic UI 3,64,4,4000, Li-Po,85%,1
+HTC Wildfire E2 4GB64GB,6.22, 720 x 1560 pixels,8,OS:Android 10,64,4,4000, Li-Po,60%,7
+HTC U12 Life 64GB,6, 1080 x 2160 pixels,13,OS:Android 8.1 Oreo,64,4,3600, Li-Ion,61%,32
+HTC U11 Eyes,6, 1080 x 2160 pixels,5, DualOS:Android 8.0 Oreo,64,4,3930, Li-Ion,59%,15
+Xiaomi Redmi Note 8T 4GB128GB,6.3, 1080 x 2340 pixels,13,OS:Android 9.0 Pie; MIUI 10,128,4,4000, Li-Po,90%,16
+Xiaomi Redmi Note 8T 4GB64GB,6.3, 1080 x 2340 pixels,13,OS:Android 9.0 Pie; MIUI 10,64,4,4000, Li-Po,86%,17
+Xiaomi Redmi Note 8 Pro 4GB64GB,6.53, 1080 x 2340 pixels,20,OS:Android 9.0 Pie; MIUI 10,64,4,4500, Li-Po,99%,18
+Infinix Hot 9 Pro 4GB64GB,6.6, 720 x 1600 pixels,8,OS:Android 10.0; XOS: 6.0,64,4,5000, Li-Po,87%,19
+Infinix Hot 9 Play 4GB64GB,6.82, 720 x 1640 pixels,8,OS:Android 9.0 Pie,64,4,6000, Li-Po,64%,16
+Infinix Note 7 Lite 4GB64GB,6.6, 720 x 1600 pixels,8,OS:Android 10.0; XOS: 6.0,64,4,5000, Li-Po,87%,18
+Infinix Hot 9 4GB128GB,6.6, 720 x 1600 pixels,8,OS:Android 10.0; XOS: 6.0,128,4,5000, Li-Po,67%,29
+Infinix Hot 9 4GB64GB,6.6, 720 x 1600 pixels,8,OS:Android 10.0; XOS: 6.0,64,4,5000, Li-Po,63%,7
+Infinix Note 7 Lite 4GB128GB,6.6, 720 x 1600 pixels,8,OS:Android 10.0; XOS: 6.0,128,4,5000, Li-Po,91%,9
+Infinix S5 Pro 4GB64GB,6.53, 1080 x 2340 pixels,16,OS:Android 10.0,64,4,4000, Li-Po,88%,19
+Infinix S5 Lite 4GB64GB,6.6, 720 x 1600 pixels,16,OS:Android 9.0 Pie; XOS: 5.5,64,4,4000, Li-Po,61%,39
+Infinix S5 4GB64GB,6.6, 720 x 1600 pixels,32,OS:Android 9.0 Pie; XOS: 5.5,64,4,4000, Li-Po,61%,60
+Infinix Hot 8 4GB64GB,6.52, 720 x 1600 pixels,8,OS:Android 9.0 Pie,64,4,5000, Li-Po,62%,154
+Infinix Note 6,6.01, 1080 x 2160 pixels,16,OS:Android 9.0 Pie,64,4,4000, Li-Po,65%,33
+LG Q61 4GB64GB,6.53, 1080 x 2340 pixels,16,OS:Android 9.0 Pie,64,4,4000, Li-Po,88%,9
+LG W30 Pro,6.21, 720 x 1520 pixels,16,OS:Android 9.0 Pie,64,4,4000, Li-Po,57%,17
+LG G6 Plus,5.7, 1440 x 2880 pixels,5,OS:Android 7.0 Nougat,128,4,3300, Li-Po,62%,7
+LG Q6 Plus,5.5, 1080 x 2160 pixels,5,OS:Android 7.1.1 Nougat,64,4,3000, Li-Po,56%,4
+Samsung Galaxy J7 Duo 2018,5.5, 720 x 1280 pixels,8,OS:Android 8.0 Oreo,32,4,3000, Li-Ion,56%,13
+Samsung Galaxy A8 Star,6.3, 1080 x 2220 pixels,24,OS:Android 8.0 Oreo,64,4,3700, Li-Ion,69%,17
+Samsung Galaxy J8,6, 720 x 1480 pixels,16,OS:Android 8.0 Oreo,64,4,3500, Li-Ion,59%,70
+Samsung Galaxy A8 2018 64GB,5.6, 1080 x 2220 pixels,16, DualOS:Android 7.1.1 Nougat,64,4,3000, Li-Ion,62%,29
+Samsung Galaxy A8 Plus 2018 64GB,6, 1080 x 2220 pixels,16, DualOS:Android 7.1.1 Nougat,64,4,3500, Li-Ion,63%,14
+Samsung Galaxy S9,5.8, 1440 x 2960 pixels,8,OS:Android 8.0 Oreo,64,4,3000, Li-Ion,66%,67
+Samsung Galaxy A8 Plus 2018 32GB,6, 1080 x 2220 pixels,16, DualOS:Android 7.1.1 Nougat,32,4,3500, Li-Ion,62%,17
+Samsung Galaxy A8 2018 32GB,5.6, 1080 x 2220 pixels,16, DualOS:Android 7.1.1 Nougat,32,4,3000, Li-Ion,61%,18
+Samsung Galaxy J7 Max,5.7, 1080 x 1920 pixels,13,OS:Android 7.0 Nougat,32,4,3300, Li-Ion,60%,14
+Samsung Galaxy J6 Plus 64GB,6, 720 x 1480 pixels,8,OS:Android 8.1 Oreo,64,4,3300, Li-Ion,48%,56
+Samsung Galaxy S9 128GB,5.8, 1440 x 2960 pixels,8,OS:Android 8.0 Oreo,128,4,3000, Li-Ion,69%,21
+Samsung Galaxy A7 2018 128GB,6, 1080 x 2220 pixels,24,OS:Android 8.0 Oreo,128,4,3300, Li-Ion,72%,39
+Samsung Galaxy A7 2018 64GB,6, 1080 x 2220 pixels,24,OS:Android 8.0 Oreo,64,4,3300, Li-Ion,68%,33
+Samsung Galaxy A6 2018 64GB,5.6, 720 x 1480 pixels,16,OS:Android 8.0 Oreo,64,4,3000, Li-Ion,57%,31
+Samsung Galaxy A6 Plus 2018 64GB,6, 1080 x 2220 pixels,24,OS:Android 8.0 Oreo,64,4,3500, Li-Ion,61%,32
+Huawei 9X 4GB64GB,6.59, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,64,4,4000, Li-Po,88%,10
+Huawei P Smart Z,6.59, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,64,4,4000, Li-Po,64%,11
+Xiaomi Mi 8 Lite 4GB64GB,6.26, 1080 x 2280 pixels,24,OS:Android 8.1 Oreo; MIUI 10.2,64,4,3350, Li-Po,60%,21
+Xiaomi Redmi Note 6 Pro 4GB64GB,6.26, 1080 x 2280 pixels,20,OS:Android 8.1 Oreo; MIUI 9.0,64,4,4000, Li-Po,59%,16
+Xiaomi Redmi Note 5 4GB64GB,5.99, 1080 x 2160 pixels,5,OS:Android 7.1.2 Nougat; MIUI 10,64,4,4000, Li-Po,61%,5
+Xiaomi Mi A2 Lite 4GB64GB,5.84, 1080 x 2280 pixels,5,OS:Android 8.1 Oreo,64,4,4000, Li-Po,61%,9
+Xiaomi Mi A2 4GB64GB,5.99, 1080 x 2160 pixels,20,OS:Android 8.1 Oreo,64,4,3000, Li-Po,59%,8
+Xiaomi Redmi Note 7 64GB,6.3, 1080 x 2340 pixels,13,OS:Android 9.0 Pie,64,4,4000, Li-Po,62%,29
+Xiaomi Redmi Note 7 Pro 64GB,6.3, 1080 x 2340 pixels,13,OS:Android 9.0 Pie,64,4,4000, Li-Po,86%,23
+Xiaomi Mi Play,5.84, 1080 x 2280 pixels,8,OS:Android 9.0 Pie,64,4,3000, Li-Ion,60%,18
+Xiaomi Mi A2 32GB,5.99, 1080 x 2160 pixels,20, Android One,32,4,3000, Li-Po,57%,3
+Xiaomi Mi Max 2 64GB,6.44, 1080 x 1920 pixels,5,OS:Android 7.1.1 Nougat,64,4,5300, Li-Ion,63%,7
+Xiaomi Redmi Note 4 64GB,5.5, 1080 x 1920 pixels,5,OS:Android 6.0 Marshmallow,64,4,4100, Li-Ion,62%,8
+Realme 6 4GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; Realme UI,128,4,4300, Li-Po,100%,7
+Realme 6 4GB64GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; Realme UI,64,4,4300, Li-Po,99%,2
+Realme C15 4GB64GB,6.5, 720 x 1560 pixels,8,OS:Android 10.0; Realme UI 1.0,64,4,6000, Li-Po,67%,8
+Realme 5s 4GB128GB,6.5, 720 x 1600 pixels,13,OS:Android 9.0 Pie; Realme UI,128,4,5000, Li-Po,91%,6
+Realme 5s 4GB64GB,6.5, 720 x 1600 pixels,13,OS:Android 9.0 Pie; Realme UI,64,4,5000, Li-Po,87%,4
+Realme 5i 4GB64GB,6.52, 720 x 1600 pixels,8,OS:Android 9.0 Pie; Realme UI,64,4,5000, Li-Po,61%,4
+Realme Narzo 4GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; Realme UI 1.0,128,4,4300, Li-Po,91%,11
+Huawei Y9 2019 64GB,6.5, 1080 x 2340 pixels,13, DualOS:Android 8.1 Oreo,64,4,4000, Li-Ion,64%,199
+Huawei Mate 20 128GB 4GB,6.53, 1080 x 2244 pixels,24,OS:Android 9.0 Pie,128,4,4000, Li-Po,67%,9
+Huawei Honor 8X Max 64GB,7.12, 1080 x 2244 pixels,8,OS:Android 8.1 Oreo,64,4,5000, Li-Po,64%,12
+Huawei Honor 8X 64GB,6.5, 1080 x 2340 pixels,16,OS:Android 8.1 Oreo,64,4,3750, Li-Po,67%,17
+Xiaomi Mi Mix 2 256 GB,5.99, 1080 x 2160 pixels,5,OS:Android 7.1 Nougat,256,6,3400, Li-Ion,76%,7
+Xiaomi Mi Mix 2 128 GB,5.99, 1080 x 2160 pixels,5,OS:Android 7.1 Nougat,128,6,3400, Li-Ion,69%,4
+Xiaomi Mi Mix 2 64 GB,5.99, 1080 x 2160 pixels,5,OS:Android 7.1 Nougat,64,6,3400, Li-Ion,65%,5
+Xiaomi Mi Note 3 128 GB,5.5, 1080 x 1920 pixels,16,OS:Android 7.1 Nougat,128,6,3500, Li-Ion,67%,7
+Xiaomi Mi Note 3 64 GB,5.5, 1080 x 1920 pixels,16,OS:Android 7.1 Nougat,64,6,3500, Li-Ion,64%,12
+HTC U11 128 GB,5.5, 1440 x 2560 pixels,16,OS:Android 7.1 Nougat,128,6,3000, Li-Ion,70%,16
+Gionee M7,6.01, 1080 x 2160 pixels,8,OS:Android 7.1 Nougat,64,6,4000, Li-Po,69%,8
+Samsung Galaxy M21 6GB128GB,6.4, 1080 x 2340 pixels,20,OS:Android 10; One UI 2.0,128,6,6000, Li-Po,100%,30
+Samsung Galaxy A31 6GB128GB,6.4, 1080 x 2400 pixels,20,OS:Android 10; One UI 2.0,128,6,5000, Li-Po,98%,31
+Samsung Galaxy M31 6GB128GB,6.4, 1080 x 2340 pixels,32,OS:Android 10.0; One UI 2.0,128,6,6000, Li-Po,100%,84
+Samsung Galaxy M31 6GB64GB,6.4, 1080 x 2340 pixels,32,OS:Android 10.0; One UI 2.0,64,6,6000, Li-Po,100%,22
+Samsung Galaxy S10 Lite 6GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,6,4500, Li-Po,100%,22
+Samsung Galaxy Note 10 Lite 6GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,6,4500, Li-Po,73%,26
+Samsung Galaxy A71 6GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,6,4500, Li-Po,100%,30
+Samsung Galaxy A51 6GB128GB,6.5, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,6,4000, Li-Po,95%,58
+Samsung Galaxy A90 5G 6GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 9.0 Pie; One UI,128,6,4500, Li-Po,100%,18
+Samsung Galaxy A70s 6GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 9.0 Pie; One UI,128,6,4500, Li-Po,100%,41
+Samsung Galaxy M30s 6GB128GB,6.4, 1080 x 2400 pixels,16,OS:Android 9.0 Pie; One UI,128,6,6000, Li-Po,100%,113
+Samsung Galaxy A50s 6GB128GB,6.4, 1080 x 2340 pixels,32,OS:Android 9.0 Pie,128,6,4000, Li-Po,95%,69
+Samsung Galaxy M40 6GB128GB,6.3, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; One UI,128,6,3500, Li-Po,81%,44
+Samsung Galaxy A60,6.3, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; One UI,128,6,3500, Li-Po,81%,92
+Samsung Galaxy A70 128GB 6GB,6.7, 1080 x 2400 pixels,32,OS:Android 9.0 Pie,128,6,4500, Li-Po,83%,286
+Lenovo Z6 Youth 6GB128GB,6.3, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ZUI 11,128,6,4050, Li-Po,72%,25
+Lenovo Z6 Pro 6GB128GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; ZUI 11,128,6,4000, Li-Po,98%,10
+Lenovo Z6 6GB128GB,6.39, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ZUI 11,128,6,4000, Li-Po,77%,10
+Lenovo Z6 6GB64GB,6.39, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ZUI 11,64,6,4000, Li-Po,74%,8
+Tecno Camon 11 Pro,6.2, 720 x 1500 pixels,24,OS:Android 8.1 Oreo,64,6,3750, Li-Ion,58%,105
+Tecno Phantom 8,5.7, 1080 x 1920 pixels,20,OS:Android 7.0 Nougat,64,6,3500, Li-Ion,67%,165
+Oppo K5 6GB128GB,6.4, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; Color OS: 6.1,128,6,4000, Li-Po,100%,23
+Oppo Reno Z 6GB256GB,6.4, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; ColorOS: 6,256,6,4035, Li-Po,100%,39
+Oppo Reno Z 6GB128GB,6.4, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; ColorOS: 6,128,6,4035, Li-Po,95%,34
+Oppo K3 64GB,6.5, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ColorOS: 6,64,6,3765, Li-Po,67%,43
+Oppo Reno 10x zoom 128GB 6GB,6.6, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ColorOS: 6,128,6,4065, Li-Po,98%,75
+Oppo Reno 128GB 6GB,6.4, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ColorOS: 6,128,6,3765, Li-Po,94%,100
+Oppo F11 Pro 128GB 6GB,6.5, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ColorOS: 6 UI,128,6,4000, Li-Po,94%,232
+Oppo F9 Pro,6.3, 1080 x 2340 pixels,25,OS:Android 8.1 Oreo,64,6,3500, Li-Po,66%,54
+Nokia 9 PureView,5.99, 1440 x 2880 pixels,20,OS:Android 9.0 Pie (One edition),128,6,3320, Li-Po,73%,49
+Nokia 8 Sirocco,5.5, 1440 x 2560 pixels,5,OS:Android 8.0 Oreo,128,6,3260, Li-Ion,71%,14
+Xiaomi Black Shark 2 6GB128GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie,128,6,4000, Li-Ion,98%,6
+Xiaomi Black Shark 6GB64GB,5.99, 1080 x 2160 pixels,20,OS:Android 8.0 Oreo,64,6,4000, Li-Ion,74%,3
+Xiaomi Black Shark Helo 6GB128GB,6.01, 1080 x 2160 pixels,20,OS:Android 8.0 Oreo,128,6,4000, Li-Ion,78%,5
+Xiaomi Mi CC9e 6GB128GB,6.01, 720 x 1560 pixels,32,OS:Android 9.0 Pie; MIUI 10,128,6,4030, Li-Po,92%,13
+Xiaomi Mi CC9e 6GB64GB,6.01, 720 x 1560 pixels,32,OS:Android 9.0 Pie; MIUI 10,64,6,4030, Li-Po,88%,5
+Xiaomi Mi CC9 6GB128GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; MIUI 10,128,6,4030, Li-Po,95%,12
+Xiaomi Mi CC9 6GB64GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; MIUI 10,64,6,4030, Li-Po,91%,4
+Xiaomi Redmi K20 Pro 6GB128GB,6.39, 1080 x 2340 pixels,20,OS:Android 10.0; OxygenOS: 10.0.4,128,6,4000, Li-Po,98%,11
+Xiaomi Redmi K20 Pro 6GB64GB,6.39, 1080 x 2340 pixels,20,OS:Android 10.0; OxygenOS: 10.0.4,64,6,4000, Li-Po,95%,18
+Xiaomi Redmi K20 6GB128GB,6.39, 1080 x 2340 pixels,20,OS:Android 10.0; OxygenOS: 10.0.4,128,6,4000, Li-Po,95%,4
+Xiaomi Redmi K20 6GB64GB,6.39, 1080 x 2340 pixels,20,OS:Android 10.0; OxygenOS: 10.0.4,64,6,4000, Li-Po,91%,6
+Xiaomi Mi Mix 2S 6GB128GB,5.99, 1080 x 2160 pixels,5,OS:Android 8.0 Oreo; MIUI 10,128,6,3400, Li-Ion,71%,3
+Xiaomi Mi 8 Lite 6GB128GB,6.26, 1080 x 2280 pixels,24,OS:Android 8.1 Oreo; MIUI 10.2,128,6,3350, Li-Po,67%,13
+Oppo A92s 6GB128GB,6.57, 1080 x 2400 pixels,16, dualOS:Android 10; ColorOS: 7.1,128,6,4000, Li-Po,93%,4
+Realme 6 Pro 6GB128GB,6.6, 1080 x 2400 pixels,16, dualOS:Android 10; Realme UI,128,6,4300, Li-Po,100%,9
+Realme 6 Pro 6GB64GB,6.6, 1080 x 2400 pixels,16, dualOS:Android 10; Realme UI,64,6,4300, Li-Po,100%,5
+Realme X50m 5G 6GB128GB,6.57, 1080 x 2400 pixels,16,OS:Android 10; Realme UI 1.0,128,6,4200, Li-Po,96%,1
+Realme X50 Pro Player 6GB128GB,6.44, 1080 x 2400 pixels,16,OS:Android 10; Realme UI 1.0,128,6,4200, Li-Po,99%,2
+Realme 5 Pro 6GB64GB,6.3, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; Realme UI,64,6,4035, Li-Po,92%,2
+Realme X2 6GB64GB,6.4, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; Realme UI,64,6,4000, Li-Po,100%,6
+Samsung Galaxy M51 6GB128GB,6.7, 1080 x 2340 pixels,32,OS:Android 10.0; One UI 2.0,128,6,7000, Li-Po,100%,12
+Samsung Galaxy Z Fold 2 5G 12GB256GB,7.6, 1768 x 2208 pixels,10,OS:Android 10.0; One UI 2.0,128,6,7000, Li-Po,93%,14
+Samsung Galaxy M31s 6GB128GB,6.5, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2.0,128,6,6000, Li-Po,100%,28
+Samsung Galaxy A21s 6GB64GB,6.5, 720 x 1600 pixels,13,OS:Android 10; One UI 2,64,6,5000, Li-Po,91%,22
+Samsung Galaxy A71 5G 6GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,6,4500, Li-Po,100%,13
+Samsung Galaxy A51 5G 6GB128GB,6.5, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,6,4500, Li-Po,96%,12
+Huawei Mate 9 Pro 128GB,5.5, 1440 x 2560 pixels,8,OS:Android 7.0 Nougat,128,6,4000, Li-Po,78%,6
+Oppo F5 64GB,6, 1080 x 2160 pixels,20,OS:Android 7.1 Nougat,64,6,3200, Li-Ion,68%,42
+OnePlus Nord 6GB64GB,6.44, 1080 x 2400 pixels,32,OS:Android 10.0; OxygenOS: 10.0,64,6,4115, Li-Po,93%,6
+OnePlus 7 Pro 128GB,6.67, 1440 x 3120 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,128,6,4000, Li-Po,100%,44
+OnePlus 7 128GB,6.41, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; OxygenOS: 9,128,6,3700, Li-Po,97%,9
+OnePlus 6T 128GB,6.41, 1080 x 2340 pixels,16,OS:Android 9.0 Pie,128,6,3700, Li-Po,74%,25
+OnePlus 6,6.28, 1080 x 2280 pixels,16,OS:Android 8.1 Oreo,64,6,3300, Li-Po,70%,44
+OnePlus 5T 64GB,6.01, 1080 x 2160 pixels,16,OS:Android 7.1.1 Nougat,64,6,3300, Li-Po,70%,20
+OnePlus 5 64GB,5.5, 1080 x 1920 pixels,16,OS:Android 7.1.1 Nougat,64,6,3300, Li-Po,68%,13
+OnePlus 3T 128GB,5.5, 1080 x 1920 pixels,16,OS:Android 6.0.1 Marshmallow,128,6,3400, Li-Ion,65%,8
+OnePlus 3T 64GB,5.5, 1080 x 1920 pixels,16,OS:Android 6.0.1 Marshmallow,64,6,3400, Li-Ion,62%,16
+Honor X10 Max 5G 6GB128GB,7.09, 1080 x 2280 pixels,8,OS:Android 10.0; Magic UI 3.1,128,6,5000, Li-Po,96%,5
+Honor 30 Youth 6GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10.0; Magic UI 3.1,128,6,4000, Li-Po,94%,5
+Honor 30 Youth 6GB64GB,6.5, 1080 x 2400 pixels,16,OS:Android 10.0; Magic UI 3.1,64,6,4000, Li-Po,90%,5
+Honor 30 6GB128GB,6.53, 1080 x 2400 pixels,32,OS:Android 10.0; Magic UI 3 (HMS),128,6,4000, Li-Po,91%,3
+HTC Desire 20 Pro 6GB128GB,6.5, 1080 x 2340 pixels,25,OS:Android 10,128,6,5000, Li-Po,96%,15
+HTC U12 Plus 64GB,6, 1440 x 2880 pixels,8, DualOS:Android 8.0 Oreo,64,6,3500, Li-Ion,70%,14
+HTC U11 Plus 128GB,6, 1440 x 2880 pixels,8,OS:Android 8.0 Oreo,128,6,3930, Li-Ion,72%,17
+Xiaomi Mi 10 Youth 5G 6GB128GB,6.57, 1080 x 2400 pixels,16,OS:Android 10; MIUI 11,128,6,4160, Li-Po,96%,5
+Xiaomi Mi 10 Youth 5G 6GB64GB,6.57, 1080 x 2400 pixels,16,OS:Android 10; MIUI 11,64,6,4160, Li-Po,93%,5
+Xiaomi Poco X2 6GB128GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10.0; MIUI 11,128,6,4500, Li-Po,100%,15
+Xiaomi Poco X2 6GB64GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10.0; MIUI 11,64,6,4500, Li-Po,100%,4
+Xiaomi Mi Note 10 6GB128GB,6.47, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; MIUI 11,128,6,5260, Li-Po,100%,14
+Xiaomi Redmi K30 5G 6GB128GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10; MIUI 11,128,6,4500, Li-Po,100%,10
+Xiaomi Redmi K30 5G 6GB64GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10; MIUI 11,64,6,4500, Li-Po,100%,6
+Xiaomi Redmi K30 6GB128GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10; MIUI 11,128,6,4500, Li-Po,100%,5
+Xiaomi Redmi K30 6GB64GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10; MIUI 11,64,6,4500, Li-Po,100%,6
+Xiaomi Mi 9T Pro 6GB128GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie; EMUI 9.1,128,6,4000, Li-Po,98%,17
+Xiaomi Mi 9T Pro 6GB64GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie; EMUI 9.1,64,6,4000, Li-Po,95%,11
+Xiaomi Redmi Note 8 Pro 6GB128GB,6.53, 1080 x 2340 pixels,20,OS:Android 9.0 Pie; MIUI 10,128,6,4500, Li-Po,100%,70
+Xiaomi Mi 9 Lite 6GB128GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; MIUI 10,128,6,4030, Li-Po,95%,21
+Xiaomi Mi 9 Lite 6GB64GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; MIUI 10,64,6,4030, Li-Po,91%,8
+Xiaomi Redmi Note 8 6GB128GB,6.3, 1080 x 2340 pixels,13,OS:Android 9.0 Pie; MIUI 10,128,6,4000, Li-Po,94%,13
+Xiaomi Redmi Note 8 6GB64GB,6.3, 1080 x 2340 pixels,13,OS:Android 9.0 Pie; MIUI 10,64,6,4000, Li-Po,90%,5
+Infinix S5 Pro 6GB128GB,6.53, 1080 x 2340 pixels,16,OS:Android 10.0,128,6,4000, Li-Po,95%,13
+Infinix Note 7 6GB128GB,6.95, 720 x 1640 pixels,16,OS:Android 10.0; XOS: 6.0,128,6,5000, Li-Po,94%,40
+Infinix S5 6GB128GB,6.6, 720 x 1600 pixels,32,OS:Android 9.0 Pie; XOS: 5.5,128,6,4000, Li-Po,68%,79
+LG Velvet 6GB128GB,6.8, 1080 x 2460 pixels,16,OS:Android 10; LG UX 9,128,6,4300, Li-Po,96%,5
+LG V50 ThinQ 5G,6.4, 1440 x 3120 pixels,8,OS:Android 9.0 Pie,128,6,4000, Li-Po,75%,21
+LG G8 ThinQ,6.1, 1440 x 3120 pixels,8,OS:Android 9.0 Pie,128,6,3500, Li-Po,74%,16
+Samsung Galaxy S9 Plus 128GB,6.2, 1440 x 2960 pixels,8,OS:Android 8.0 Oreo,128,6,3500, Li-Ion,74%,89
+Samsung Galaxy S9 Plus,6.2, 1440 x 2960 pixels,8,OS:Android 8.0 Oreo,64,6,3500, Li-Ion,70%,73
+Samsung Galaxy S10e 128GB 6GB,5.8, 1080 x 2280 pixels,10,OS:Android 9.0 Pie,128,6,3100, Li-Ion,70%,30
+Samsung Galaxy A8s 128GB 6GB,6.4, 1080 x 2340 pixels,24,OS:Android 9.0 Pie,128,6,3400, Li-Ion,76%,34
+Samsung Galaxy A9 2018 128GB 6GB,6.3, 1080 x 2220 pixels,24,OS:Android 8.0 Oreo,128,6,3800, Li-Ion,77%,35
+Samsung Galaxy A6s 64GB,6, 1080 x 2160 pixels,12,OS:Android 8.0 Oreo,64,6,3300, Li-Ion,63%,12
+Samsung Galaxy Note 9 128GB,6.4, 1440 x 2960 pixels,8,OS:Android 8.1 Oreo,128,6,4000, Li-Ion,74%,83
+Huawei Nova 5T 6GB128GB,6.26, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; EMUI 10,128,6,3750, Li-Po,96%,15
+Huawei Honor V30 6GB128GB,6.57, 1080 x 2400 pixels,32, dualOS:Android 10.0; Magic UI 3,128,6,4200, Li-Po,93%,14
+Huawei Y9s 6GB128GB,6.59, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,128,6,4000, Li-Po,94%,74
+Huawei P30 Lite 6GB128GB,6.15, 1080 x 2312 pixels,24,OS:Android 9.0 Pie; EMUI 9.0,128,6,3340, Li-Po,93%,66
+Huawei Mate 30 5G 6GB128GB,6.62, 1080 x 2340 pixels,24,OS:Android 10; EMUI 10,128,6,4200, Li-Po,93%,7
+Huawei Mate 30 6GB128GB,6.62, 1080 x 2340 pixels,24,OS:Android 10; EMUI 10,128,6,4200, Li-Po,93%,6
+Huawei Nova 5i Pro 6GB128GB,6.26, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; EMUI 9.1,128,6,4000, Li-Po,95%,10
+Huawei 9X 6GB128GB,6.59, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,128,6,4000, Li-Po,95%,16
+Huawei 9X 6GB64GB,6.59, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,64,6,4000, Li-Po,91%,9
+Huawei Nova 5i 6GB128GB,6.4, 1080 x 2310 pixels,24,OS:Android 9.0 Pie; EMUI 9.1,128,6,4000, Li-Po,77%,13
+Xiaomi Mi 9T 6GB128GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie; MIUI 10,128,6,4000, Li-Po,95%,13
+Xiaomi Mi 9T 6GB64GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie; MIUI 10,64,6,4000, Li-Po,91%,4
+Xiaomi Mi A2 6GB128GB,5.99, 1080 x 2160 pixels,20,OS:Android 8.1 Oreo,128,6,3000, Li-Po,66%,6
+Xiaomi Mi Mix 3 5G 64GB 6GB,6.39, 1080 x 2340 pixels,24,OS:Android 9.0 Pie,64,6,3800, Li-Po,68%,6
+Xiaomi Mi Mix 3 6GB 128GB,6.39, 1080 x 2340 pixels,24,OS:Android 9.0 Pie,128,6,3200, Li-Ion,70%,7
+Xiaomi Pocophone F1 128GB,6.18, 1080 x 2246 pixels,20,OS:Android 8.1 Oreo,128,6,4000, Li-Po,72%,20
+Xiaomi Pocophone F1 64GB,6.18, 1080 x 2246 pixels,20,OS:Android 8.1 Oreo,64,6,4000, Li-Po,69%,15
+Realme C17 6GB128GB,6.5, 720 x 1600 pixels,8,OS:Android 10; Realme UI,128,6,5000, Li-Po,68%,2
+Realme 7 Pro 6GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; Realme UI,128,6,4500, Li-Po,100%,4
+Realme 7 6GB64GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; Realme UI,64,6,5000, Li-Po,100%,6
+Realme X7 Pro 6GB128GB,6.55, 1080 x 2400 pixels,32,OS:Android 10; Realme UI,128,6,4500, Li-Po,100%,6
+Realme X7 6GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; Realme UI,128,6,4300, Li-Po,100%,3
+Realme V3 6GB128GB,6.5, 720 x 1600 pixels,8,OS:Android 10; Realme UI,128,6,5000, Li-Po,69%,2
+Realme V3 6GB64GB,6.5, 720 x 1600 pixels,8,OS:Android 10; Realme UI,64,6,5000, Li-Po,66%,2
+Realme V5 5G 6GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; Realme UI 1.0,128,6,5000, Li-Po,96%,10
+Realme X3 6GB128GB,6.6, 1080 x 2400 pixels,16,OS:Android 10; Realme UI,128,6,4200, Li-Po,100%,6
+Huawei Mate 20X,7.2, 1080 x 2244 pixels,24,OS:Android 9.0 Pie,128,6,5000, Li-Po,93%,34
+Huawei Mate 20 Pro 128GB,6.39, 1440 x 3120 pixels,24,OS:Android 9.0 Pie,128,6,4200, Li-Po,94%,52
+Xiaomi Mi Mix 2 8 GB RAM,5.99, 1080 x 2160 pixels,5,OS:Android 7.1 Nougat,128,8,3400, Li-Ion,72%,4
+Samsung Galaxy Z Flip 8GB256GB,6.7, 1080 x 2636 pixels,10,OS:Android 10.0; One UI 2,256,8,3300, Li-Po,82%,19
+Samsung Galaxy S20 S20 Plus,6.7, 1440 x 3200 pixels,10,OS:Android 10.0; One UI 2,128,8,4500, Li-Po,55%,39
+Samsung Galaxy S20,6.2, 1440 x 3200 pixels,10,OS:Android 10.0; One UI 2,128,8,4000, Li-Po,78%,28
+Samsung Galaxy S10 Lite 8GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,8,4500, Li-Po,100%,36
+Samsung Galaxy Note 10 Lite 8GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,8,4500, Li-Po,77%,19
+Samsung Galaxy A71 8GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,8,4500, Li-Po,100%,90
+Samsung Galaxy A90 5G 8GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 9.0 Pie; One UI,128,8,4500, Li-Po,100%,50
+Samsung Galaxy A70s 8GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 9.0 Pie; One UI,128,8,4500, Li-Po,100%,54
+Samsung Galaxy Note 10 8GB256GB,6.3, 1080 x 2280 pixels,10,OS:Android 9.0 Pie; One UI,256,8,3500, Li-Ion,81%,31
+Samsung Galaxy A80,6.7, 1080 x 2400 pixels,8,OS:Android 8.0 Oreo; Go Edition,128,8,3700, Li-Po,97%,72
+Lenovo Z6 Pro 8GB256GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; ZUI 11,256,8,4000, Li-Po,100%,6
+Lenovo Z6 Pro 8GB128GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; ZUI 11,128,8,4000, Li-Po,100%,10
+Lenovo Z6 8GB128GB,6.39, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ZUI 11,128,8,4000, Li-Po,81%,12
+Oppo Reno 3 Youth 8GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7,128,8,4025, Li-Po,100%,14
+Oppo F15 8GB128GB,6.4, 1080 x 2400 pixels,16,OS:Android 9.0 Pie; ColorOS: 6.1,128,8,4025, Li-Po,98%,23
+Oppo Reno 3 Pro 8GB128GB,6.5, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7,128,8,4025, Li-Po,99%,37
+Oppo Reno 3 8GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7,128,8,4025, Li-Po,100%,25
+Oppo A91 8GB128GB,6.4, 1080 x 2400 pixels,16,OS:Android 9.0 Pie; ColorOS: 6.1,128,8,4025, Li-Po,98%,23
+Oppo Reno 2F 8GB128GB,6.5, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ColorOS: 6,128,8,4000, Li-Po,97%,47
+Oppo Reno Ace 8GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 9.0 Pie; ColorOS: 6.1,128,8,4000, Li-Po,100%,37
+Oppo A9 2020 8GB128GB,6.5, 720 x 1600 pixels,16,OS:Android 9.0 Pie; ColorOS: 6.1,128,8,5000, Li-Po,98%,153
+Oppo Reno 2 8GB256GB,6.5, 1080 x 2400 pixels,16,OS:Android 9.0 Pie; ColorOS: 6,256,8,4000, Li-Po,100%,95
+Oppo K3 128GB,6.5, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; ColorOS: 6,128,8,3765, Li-Po,75%,60
+Xiaomi Black Shark 2 Pro 8GB128GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie,128,8,4000, Li-Ion,100%,9
+Xiaomi Black Shark 2 8GB256GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie,256,8,4000, Li-Ion,100%,5
+Xiaomi Black Shark 2 8GB128GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie,128,8,4000, Li-Ion,100%,6
+Xiaomi Black Shark 8GB128GB,5.99, 1080 x 2160 pixels,20,OS:Android 8.0 Oreo,128,8,4000, Li-Ion,82%,4
+Xiaomi Black Shark Helo 8GB128GB,6.01, 1080 x 2160 pixels,20,OS:Android 8.0 Oreo,128,8,4000, Li-Ion,82%,4
+Xiaomi Mi CC9mt Meitu Edition 8GB256GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; MIUI 10,256,8,4030, Li-Po,100%,12
+Xiaomi Redmi K20 Pro 8GB256GB,6.39, 1080 x 2340 pixels,20,OS:Android 10.0; OxygenOS: 10.0.4,256,8,4000, Li-Po,100%,9
+Xiaomi Redmi K20 Pro 8GB128GB,6.39, 1080 x 2340 pixels,20,OS:Android 10.0; OxygenOS: 10.0.4,128,8,4000, Li-Po,100%,7
+Xiaomi Redmi K20 8GB256GB,6.39, 1080 x 2340 pixels,20,OS:Android 10.0; OxygenOS: 10.0.4,256,8,4000, Li-Po,100%,7
+Oppo F17 Pro 8GB128GB,6.43, 1080 x 2400 pixels,16, dualOS:Android 10; ColorOS: 7.2,128,8,4000, Li-Po,98%,9
+Oppo K7 5G 8GB256GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; Color OS: 7,256,8,4025, Li-Po,100%,9
+Oppo K7 5G 8GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; Color OS: 7,128,8,4025, Li-Po,100%,9
+Oppo Reno 4 Pro 4G 8GB256GB,6.5, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7.2,256,8,4000, Li-Po,100%,15
+Oppo Reno 4 Pro 4G 8GB128GB,6.5, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7.2,128,8,4000, Li-Po,99%,9
+Oppo Reno 4 4G 8GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7.2,128,8,4015, Li-Po,99%,9
+Oppo Reno 4 Pro 5G 8GB128GB,6.55, 1080 x 2400 pixels,32,OS:Android 10; ColorOS: 7.2,128,8,4000, Li-Po,99%,11
+Oppo Reno 4 5G 8GB256GB,6.43, 1080 x 2400 pixels,32, dualOS:Android 10; ColorOS: 7.2,256,8,4000, Li-Po,100%,7
+Oppo Reno 4 5G 8GB128GB,6.43, 1080 x 2400 pixels,32, dualOS:Android 10; ColorOS: 7.2,128,8,4000, Li-Po,99%,13
+Oppo A92s 8GB256GB,6.57, 1080 x 2400 pixels,16, dualOS:Android 10; ColorOS: 7.1,256,8,4000, Li-Po,100%,7
+Oppo A92s 8GB128GB,6.57, 1080 x 2400 pixels,16, dualOS:Android 10; ColorOS: 7.1,128,8,4000, Li-Po,97%,8
+Oppo A72 8GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; ColorOS: 7.1,128,8,5000, Li-Po,100%,3
+Oppo Find X2 Lite 8GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10.0; ColorOS: 7,128,8,4025, Li-Po,99%,7
+Oppo A92 8GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; ColorOS: 7.1,128,8,5000, Li-Po,100%,40
+Oppo Ace 2 8GB256GB,6.55, 1080 x 2400 pixels,16,OS:Android 10; ColorOS: 7.1,256,8,4000, Li-Po,100%,6
+Oppo Ace 2 8GB128GB,6.55, 1080 x 2400 pixels,16,OS:Android 10; ColorOS: 7.1,128,8,4000, Li-Po,100%,2
+Realme X50m 5G 8GB128GB,6.57, 1080 x 2400 pixels,16,OS:Android 10; Realme UI 1.0,128,8,4200, Li-Po,100%,5
+Realme X50 Pro Player 8GB128GB,6.44, 1080 x 2400 pixels,16,OS:Android 10; Realme UI 1.0,128,8,4200, Li-Po,100%,4
+Realme X3 SuperZoom 8GB128GB,6.6, 1080 x 2400 pixels,32,OS:Android 10; Realme UI,128,8,4200, Li-Po,100%,3
+Samsung Galaxy Note 20 Ultra 8GB512GB,6.9, 1440 x 3088 pixels,10,OS:Android 10; One UI 2.1,512,8,4500, Li-Ion,100%,9
+Samsung Galaxy Note 20 Ultra 8GB256GB,6.9, 1440 x 3088 pixels,10,OS:Android 10; One UI 2.1,256,8,4500, Li-Ion,100%,22
+Samsung Galaxy Note 20 8GB256GB,6.7, 1080 x 2400 pixels,10,OS:Android 10; One UI 2.1,256,8,4300, Li-Ion,83%,10
+Samsung Galaxy M31s 8GB128GB,6.5, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2.0,128,8,6000, Li-Po,100%,31
+Samsung Galaxy Z Flip 5G 8GB256GB,6.7, 1080 x 2636 pixels,10,OS:Android 10.0; One UI 2,256,8,3300, Li-Po,83%,10
+Samsung Galaxy A Quantum 8GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,8,4500, Li-Po,100%,29
+Samsung Galaxy A71 5G 8GB128GB,6.7, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,8,4500, Li-Po,100%,19
+Samsung Galaxy A51 5G 8GB128GB,6.5, 1080 x 2400 pixels,32,OS:Android 10.0; One UI 2,128,8,4500, Li-Po,100%,39
+Oppo Find X,6.42, 1080 x 2340 pixels,25,OS:Android 8.1 Oreo,256,8,3730, Li-Ion,85%,112
+OnePlus Nord 8GB128GB,6.44, 1080 x 2400 pixels,32,OS:Android 10.0; OxygenOS: 10.0,128,8,4115, Li-Po,100%,8
+OnePlus 8 Pro 8GB128GB,6.78, 1440 x 3168 pixels,16,OS:Android 10.0; OxygenOS: 10.0,128,8,4510, Li-Po,100%,3
+OnePlus 8 8GB128GB,6.55, 1080 x 2400 pixels,16,OS:Android 10.0; OxygenOS: 10.0,128,8,4300, Li-Po,100%,8
+OnePlus 7T Pro 8GB256GB,6.67, 1440 x 3120 pixels,16,OS:Android 10.0; OxygenOS: 10.0.4,256,8,4085, Li-Po,100%,27
+OnePlus 7 Pro 8GB256GB,6.67, 1440 x 3120 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,256,8,4000, Li-Po,100%,30
+OnePlus 7T 8GB256GB,6.55, 1080 x 2400 pixels,16,OS:Android 10.0; OxygenOS: 10,256,8,3800, Li-Po,100%,24
+OnePlus 7T 8GB128GB,6.55, 1080 x 2400 pixels,16,OS:Android 10.0; OxygenOS: 10,128,8,3800, Li-Po,100%,16
+OnePlus 7 256GB,6.41, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; OxygenOS: 9,256,8,3700, Li-Po,100%,21
+OnePlus 6 128GB,6.28, 1080 x 2280 pixels,16,OS:Android 8.1 Oreo,128,8,3300, Li-Po,77%,27
+OnePlus 5T 128GB,6.01, 1080 x 2160 pixels,16,OS:Android 7.1.1 Nougat,128,8,3300, Li-Po,78%,14
+OnePlus 5 128GB,5.5, 1080 x 1920 pixels,16,OS:Android 7.1.1 Nougat,128,8,3300, Li-Po,75%,13
+Honor Play 4 Pro 8GB128GB,6.57, 1080 x 2400 pixels,32, dualOS:Android 10; Magic UI 3.1,128,8,4200, Li-Po,95%,5
+Honor Play 4 8GB128GB,6.81, 1080 x 2400 pixels,16,OS:Android 10; Magic UI 3.1,128,8,4300, Li-Po,100%,4
+Honor 30 8GB256GB,6.53, 1080 x 2400 pixels,32,OS:Android 10.0; Magic UI 3 (HMS),256,8,4000, Li-Po,100%,3
+Honor 30 8GB128GB,6.53, 1080 x 2400 pixels,32,OS:Android 10.0; Magic UI 3 (HMS),128,8,4000, Li-Po,95%,2
+HTC U20 5G 8GB256GB,6.8, 1080 x 2400 pixels,32,OS:Android 10,256,8,5000, Li-Po,100%,15
+Xiaomi Mi Note 10 Pro 8GB256GB,6.47, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; MIUI 11,256,8,5260, Li-Po,100%,18
+Xiaomi Mi 10 5G 8GB256GB,6.67, 1080 x 2340 pixels,20,OS:Android 10; MIUI 11,256,8,4780, Li-Po,100%,8
+Xiaomi Mi 10 5G 8GB128GB,6.67, 1080 x 2340 pixels,20,OS:Android 10; MIUI 11,128,8,4780, Li-Po,100%,4
+Xiaomi Poco X2 8GB256GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10.0; MIUI 11,256,8,4500, Li-Po,100%,12
+Xiaomi Redmi K30 5G 8GB256GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10; MIUI 11,256,8,4500, Li-Po,100%,22
+Xiaomi Redmi K30 5G 8GB128GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10; MIUI 11,128,8,4500, Li-Po,100%,11
+Xiaomi Redmi K30 8GB256GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10; MIUI 11,256,8,4500, Li-Po,100%,6
+Xiaomi Redmi K30 8GB128GB,6.67, 1080 x 2400 pixels,20, dualOS:Android 10; MIUI 11,128,8,4500, Li-Po,100%,9
+Xiaomi Mi 9T Pro 8GB256GB,6.39, 1080 x 2340 pixels,20,OS:Android 9.0 Pie; EMUI 9.1,256,8,4000, Li-Po,100%,15
+Infinix Zero 8 8GB128GB,6.85, 1080 x 2460 pixels,48, dualOS:Android 10; XOS: 7.0,128,8,4500, Li-Po,100%,12
+LG Velvet 8GB128GB,6.8, 1080 x 2460 pixels,16,OS:Android 10; LG UX 9,128,8,4300, Li-Po,100%,11
+Samsung Galaxy S10 S10 Plus 512GB 8GB,6.4, 1440 x 3040 pixels,10, DualOS:Android 9.0 Pie,512,8,4100, Li-Ion,99%,26
+Samsung Galaxy S10e 256GB 8GB,5.8, 1080 x 2280 pixels,10,OS:Android 9.0 Pie,256,8,3100, Li-Ion,80%,12
+Samsung Galaxy S10 512GB 8GB,6.1, 1440 x 3040 pixels,10,OS:Android 9.0 Pie,512,8,3400, Li-Ion,97%,17
+Samsung Galaxy S10 5G,6.7, 1440 x 3040 pixels,10,OS:Android 9.0 Pie,256,8,4500, Li-Ion,86%,24
+Samsung Galaxy S10 128GB 8GB,6.1, 1440 x 3040 pixels,10,OS:Android 9.0 Pie,128,8,3400, Li-Ion,76%,70
+Samsung Galaxy Note 9 512GB,6.4, 1440 x 2960 pixels,8,OS:Android 8.1 Oreo,512,8,4000, Li-Ion,99%,28
+Huawei Nova 5T 8GB128GB,6.26, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; EMUI 10,128,8,3750, Li-Po,100%,52
+Huawei Nova 6 8GB128GB,6.57, 1080 x 2400 pixels,32,OS:Android 10; EMUI 10,128,8,4100, Li-Po,96%,26
+Huawei Honor V30 Pro 8GB256GB,6.57, 1080 x 2400 pixels,32, dualOS:Android 10.0; Magic UI 3,256,8,4100, Li-Po,100%,24
+Huawei Honor V30 Pro 8GB128GB,6.57, 1080 x 2400 pixels,32, dualOS:Android 10.0; Magic UI 3,128,8,4100, Li-Po,96%,16
+Huawei Honor V30 8GB128GB,6.57, 1080 x 2400 pixels,32, dualOS:Android 10.0; Magic UI 3,128,8,4200, Li-Po,97%,14
+Huawei Mate 30 Pro 5G 8GB256GB,6.52, 1176 x 2400 pixels,32,DualOS:Android 10; EMUI 10,256,8,4500, Li-Po,100%,13
+Huawei Mate 30 Pro 5G 8GB128GB,6.52, 1176 x 2400 pixels,32,DualOS:Android 10; EMUI 10,128,8,4500, Li-Po,98%,21
+Huawei Mate 30 Pro 8GB256GB,6.52, 1176 x 2400 pixels,32,DualOS:Android 10; EMUI 10,256,8,4500, Li-Po,100%,8
+Huawei Mate 30 Pro 8GB128GB,6.52, 1176 x 2400 pixels,32,DualOS:Android 10; EMUI 10,128,8,4500, Li-Po,98%,9
+Huawei Mate 30 5G 8GB128GB,6.62, 1080 x 2340 pixels,24,OS:Android 10; EMUI 10,128,8,4200, Li-Po,97%,10
+Huawei Mate 30 8GB128GB,6.62, 1080 x 2340 pixels,24,OS:Android 10; EMUI 10,128,8,4200, Li-Po,97%,9
+Huawei Nova 5i Pro 8GB256GB,6.26, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; EMUI 9.1,256,8,4000, Li-Po,100%,17
+Huawei Nova 5i Pro 8GB128GB,6.26, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; EMUI 9.1,128,8,4000, Li-Po,99%,10
+Huawei 9X Pro 8GB256GB,6.59, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,256,8,4000, Li-Po,100%,16
+Huawei 9X Pro 8GB128GB,6.59, 1080 x 2340 pixels,16,OS:Android 9.0 Pie; EMUI 9.1,128,8,4000, Li-Po,98%,9
+Huawei Nova 5i 8GB128GB,6.4, 1080 x 2310 pixels,24,OS:Android 9.0 Pie; EMUI 9.1,128,8,4000, Li-Po,81%,14
+Huawei Nova 5 Pro 8GB256GB,6.39, 1080 x 2340 pixels,32,OS:Android 9.0 Pie; EMUI 9.1,256,8,3500, Li-Po,100%,12
+Realme 7i 8GB128GB,6.5, 720 x 1600 pixels,16,OS:Android 10; Realme UI,128,8,5000, Li-Po,100%,4
+Realme 6 8GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; Realme UI,128,8,4300, Li-Po,100%,13
+Realme 7 Pro 8GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; Realme UI,128,8,4500, Li-Po,100%,6
+Realme 7 8GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; Realme UI,128,8,5000, Li-Po,100%,3
+Realme X7 Pro 8GB128GB,6.55, 1080 x 2400 pixels,32,OS:Android 10; Realme UI,128,8,4500, Li-Po,100%,6
+Realme X7 8GB128GB,6.4, 1080 x 2400 pixels,32,OS:Android 10; Realme UI,128,8,4300, Li-Po,100%,2
+Realme V5 5G 8GB128GB,6.5, 1080 x 2400 pixels,16,OS:Android 10; Realme UI 1.0,128,8,5000, Li-Po,100%,10
+Realme X3 8GB128GB,6.6, 1080 x 2400 pixels,16,OS:Android 10; Realme UI,128,8,4200, Li-Po,100%,5
